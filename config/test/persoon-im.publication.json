@@ -26,7 +26,9 @@
     "navigation": {
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.2"
     },
-    "dummy": "069",
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Persoon-IM",
+    "dummy": "070",
     "disabled": false
   },
   {
