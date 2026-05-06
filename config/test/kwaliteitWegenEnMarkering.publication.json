@@ -5,7 +5,7 @@
     "branchtag": "test",
     "name": "kwaliteitWegenEnWegmarkeringen-ap",
     "filename": "config/kwaliteitWegenEnWegmarkeringen-ap.json",
-    "dummy": "001",
+    "dummy": "002",
     "type": "raw",
     "directory": "/doc/applicatieprofiel/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05"
   },
@@ -13,7 +13,7 @@
     "urlref": "/doc/applicatieprofiel/kwaliteit-wegen-en-wegmarkeringen",
     "seealso": "/doc/applicatieprofiel/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05",
     "type": "raw",
-    "dummy": "001",
+    "dummy": "002",
     "directory": "/doc/applicatieprofiel/kwaliteit-wegen-en-wegmarkeringen",
     "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
     "branchtag": "test"
@@ -24,7 +24,7 @@
     "branchtag": "test",
     "name": "KwaliteitOpenbaarDomein",
     "filename": "config/kwaliteitWegenEnWegmarkeringen-voc.json",
-    "dummy": "001",
+    "dummy": "002",
     "type": "raw",
     "directory": "/doc/vocabularium/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05"
   },
@@ -32,7 +32,7 @@
     "urlref": "/ns/kwaliteit-wegen-en-wegmarkeringen",
     "seealso": "/doc/vocabularium/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05",
     "type": "raw",
-    "dummy": "001",
+    "dummy": "002",
     "directory": "/ns/kwaliteit-wegen-en-wegmarkeringen",
     "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
     "branchtag": "test"
