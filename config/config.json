@@ -1,6 +1,6 @@
 {
   "primeLanguage": "nl",
-  "otherLanguages": ["en", "fr", "de"],
+  "otherLanguages": [],
   "hostname": "https://implementatie.data.test-vlaanderen.be/",
   "domain": "implementatie.data.vlaanderen.be",
   "publicationpoints": ["test"],
