@@ -815,18 +815,6 @@ workflows:
             - bundle-release
       # Make create-artifact depend only on expand-links (the final consolidation step)
       - create-artifact:
-          generatedRepoFingerprint: "SHA256:4z5hJXh2r+2cQVWc13onR3y+Z35PMBHKwJ52yRd/8JA"
+          generatedRepoFingerprint: "SHA256:fmR6NGcDhfDHFggXNHb182Dglr1FEUwL3OpzM7zVl9Q"
           requires:
             - expand-links
-  # New weekly scheduled workflow
-  weekly_maintenance:
-    triggers:
-      - schedule:
-          cron: "0 12 * * 4" # Run at 12 PM (12:00) every Thursday
-          filters:
-            branches:
-              only:
-                - dev
-    jobs:
-      - weekly-trigger-all:
-          repoFingerprint: "SHA256:pOYapwEA5OgOMrEPxcwOxnIMQjserWnAmJGaYIYXOEw"
