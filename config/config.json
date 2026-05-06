@@ -6,7 +6,7 @@
   "publicationpoints": ["test"],
   "generatedrepository": {
     "organisation": "informatievlaanderen",
-    "repository": "implementatie.data.vlaanderen.be-generated2",
+    "repository": "implementatie.data.vlaanderen.be2-generated",
     "private": false,
     "gitEmail": "toolchain@data.vlaanderen.be",
     "gitUser": "toolchain"
