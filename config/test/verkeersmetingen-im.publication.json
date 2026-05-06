@@ -1,0 +1,108 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test",
+    "name": "Verkeersmetingen-im",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "16",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingen/",
+    "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "navigation": {},
+    "dummy": "14",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/verkeersmetingen/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test"
+  },
+  {
+    "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test",
+    "name": "Verkeersmetingen-im-voc",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "14",
+    "type": "raw",
+    "directory": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27"
+  },
+  {
+    "urlref": "/ns/vsds-verkeersmetingen/",
+    "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "navigation": {},
+    "disable": "true",
+    "dummy": "08",
+    "type": "raw",
+    "directory": "/ns/vsds-verkeersmetingen/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test",
+    "name": "kruispuntmetingen-im",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "3",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
+    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
+    "navigation": {},
+    "dummy": "3",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/kruispuntmetingen/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test",
+    "name": "Verkeersmetingen-im-verzameling",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "05",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/",
+    "seealso": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "navigation": {},
+    "dummy": "05",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/verkeersmetingverzameling/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test"
+  },
+  {
+    "urlref": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test",
+    "name": "Verkeersmetingen-im-voc-verzameling",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "04",
+    "type": "raw",
+    "directory": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22"
+  },
+  {
+    "urlref": "/ns/vsds-verkeersmetingverzameling/",
+    "seealso": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "navigation": {},
+    "dummy": "04",
+    "type": "raw",
+    "directory": "/ns/vsds-verkeersmetingverzameling/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "test"
+  }
+]
