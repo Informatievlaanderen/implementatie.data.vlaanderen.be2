@@ -1,0 +1,33 @@
+{
+  "primeLanguage": "nl",
+  "otherLanguages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "hostname": "https://dev.specs.org/",
+  "domain": "data.spec.org",
+  "publicationpoints": [
+    "dev"
+  ],
+  "generatedrepository": {
+    "organisation": "GitHubOrganisation",
+    "repository": "GeneratedRepository",
+    "private": false,
+    "gitEmail": "toolchain@dev.specs.org",
+    "gitUser": "toolchain"
+  },
+  "toolchainversion": "4.1.1",
+  "toolchain": {
+    "strickness": "lazy",
+    "version": 4,
+    "triggerall": true,
+    "autotranslate": false
+  },
+  "shaclgenerator": {
+    "parameters-old": "-m individual -c 'uniqueLanguages' -c 'nodeKind'"
+  },
+  "contextgenerator": {
+    "parameters-old": "-c -l label"
+  }
+}

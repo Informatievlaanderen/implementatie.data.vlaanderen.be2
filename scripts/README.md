@@ -1,0 +1,15 @@
+# The toolchain scripts
+
+These scripts are the hart of the toolchain, together with the CIRCLECI configuration in .circleci.
+
+The scripts are so designed that all configuration is present in the config directory, and that they do not need to be adapted when activating a publication environment.
+
+Each script has as implicit requirement that the execution environment is the one in which is called as defined in CIRCLECI setup.
+Executing the scripts thus cannot be done directly after checking out this repository. 
+One has to create an execution environment (a Docker container) satisfying the needs.
+This can be done by manually executing the CIRCLECI configuration.
+
+# supporting github issues reporting
+To report the issues of the thema repositories a GH_TOKEN environment variable has to be set in the CircleCI.
+This token is a Personal Access Token with minimal rights (read rights).
+
