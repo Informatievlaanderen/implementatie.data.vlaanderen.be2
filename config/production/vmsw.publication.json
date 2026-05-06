@@ -1,0 +1,44 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/vmsw/ontwerpstandaard/2023-03-27",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "im-vmsw",
+    "filename": "config/im-vmsw.json",
+    "navigation": {},
+    "dummy": 1,
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/vmsw/ontwerpstandaard/2023-03-27"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/vmsw/",
+    "seealso": "/doc/implementatiemodel/vmsw/ontwerpstandaard/2023-03-27",
+    "navigation": {},
+    "dummy": 1,
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/vmsw/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/vocabularium/vmsw/ontwerpstandaard/2023-03-27",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "voc-vmsw",
+    "filename": "config/voc-vmsw.json",
+    "navigation": {},
+    "dummy": 2,
+    "type": "raw",
+    "directory": "/doc/vocabularium/vmsw/ontwerpstandaard/2023-03-27"
+  },
+  {
+    "urlref": "/ns/vmsw/",
+    "seealso": "/doc/vocabularium/vmsw/ontwerpstandaard/2023-03-27",
+    "navigation": {},
+    "dummy": 2,
+    "type": "raw",
+    "directory": "/ns/vmsw/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  }
+]

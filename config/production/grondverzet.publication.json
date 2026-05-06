@@ -1,0 +1,206 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-grondboringen-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert46",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    },
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert46",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-grondboringen-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert19",
+    "disabled": true,
+    "type": "raw",
+    "directory": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/grondboringen/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert19",
+    "disabled": true,
+    "type": "raw",
+    "directory": "/ns/bodem-en-ondergrond/grondboringen/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-agents-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert10",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    },
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert10",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/agents/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-agents-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert02",
+    "disabled": true,
+    "type": "raw",
+    "directory": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/agents/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert02",
+    "disabled": true,
+    "type": "raw",
+    "directory": "/ns/bodem-en-ondergrond/agents/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-locaties-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert09",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    },
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-locaties-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert09",
+    "type": "raw",
+    "directory": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/locaties/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09",
+    "type": "raw",
+    "directory": "/ns/bodem-en-ondergrond/locaties/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-opdrachten-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert09",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    },
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09",
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "grondverzet-opdrachten-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert09",
+    "type": "raw",
+    "directory": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01"
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/opdrachten/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09",
+    "type": "raw",
+    "directory": "/ns/bodem-en-ondergrond/opdrachten/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  }
+]

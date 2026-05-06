@@ -1,0 +1,45 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "asbestinventaris",
+    "filename": "config/im-asbestinventaris.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": 4,
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-09-22"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/asbestinventaris/",
+    "seealso": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "navigation": {},
+    "dummy": 4,
+    "type": "raw",
+    "directory": "/doc/implementatiemodel/asbestinventaris/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  },
+  {
+    "urlref": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production",
+    "name": "asbestinventaris",
+    "filename": "config/voc-asbestinventaris.json",
+    "navigation": {},
+    "dummy": 4,
+    "type": "raw",
+    "directory": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-09-22"
+  },
+  {
+    "urlref": "/ns/asbestinventaris/",
+    "seealso": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "navigation": {},
+    "dummy": 4,
+    "type": "raw",
+    "directory": "/ns/asbestinventaris/",
+    "repository": "https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be-generated",
+    "branchtag": "production"
+  }
+]
