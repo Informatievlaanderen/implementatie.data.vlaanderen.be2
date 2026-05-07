@@ -4,14 +4,14 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "ef982395e537859ba7495ca46ba7ef527240343c",
     "name": "persoon",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.4"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -19,7 +19,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.1",
     "name": "persoon-IM",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -28,7 +28,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-IM",
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -36,7 +36,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.2",
     "name": "persoon",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -44,7 +44,7 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.1",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.3"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -52,7 +52,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.3",
     "name": "persoon",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -60,7 +60,7 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.2",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.4"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -68,7 +68,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.4",
     "name": "persoon",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -76,7 +76,7 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.3",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.5"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -84,14 +84,14 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "ef982395e537859ba7495ca46ba7ef527240343c",
     "name": "persoon",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.4"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -99,7 +99,7 @@
     "prefix": "magda",
     "seealso": "/ns/magda/persoon/v0.0.5",
     "type": "voc",
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -107,11 +107,11 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
     "branchtag": "v0.0.1",
     "name": "persoon-IMVOC",
-    "filename": "config/persoon-im.json",
+    "filename": "config/persoon-magda-im.json",
     "navigation": {
       "next": "/ns/magda/persoon/v0.0.2"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -125,7 +125,7 @@
       "prev": "/ns/magda/persoon/v0.0.1",
       "next": "/ns/magda/persoon/v0.0.3"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -139,7 +139,7 @@
       "prev": "/ns/magda/persoon/v0.0.2",
       "next": "/ns/magda/persoon/v0.0.4"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -152,7 +152,7 @@
     "navigation": {
       "prev": "/ns/magda/persoon/v0.0.3"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   },
   {
@@ -165,7 +165,7 @@
     "navigation": {
       "prev": "/ns/magda/persoon/v0.0.4"
     },
-    "dummy": "072",
+    "dummy": "073",
     "disabled": false
   }
 ]
