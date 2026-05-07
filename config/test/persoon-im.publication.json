@@ -10,7 +10,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.1",
     "name": "persoon-IM",
-    "filename": "config/persoon-magda-im.json",
+    "filename": "config/persoon-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -27,7 +27,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.2",
     "name": "persoon",
-    "filename": "config/persoon-magda-im.json",
+    "filename": "config/persoon-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -45,7 +45,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.3",
     "name": "persoon",
-    "filename": "config/persoon-magda-im.json",
+    "filename": "config/persoon-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
@@ -63,7 +63,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.4",
     "name": "persoon",
-    "filename": "config/persoon-magda-im.json",
+    "filename": "config/persoon-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
