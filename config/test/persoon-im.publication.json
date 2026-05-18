@@ -79,7 +79,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.5",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "8c17a2726ffa3a73d58f273efb93c0e6652e7aa3",
+    "branchtag": "e0c65767c08d23bd8495f6bcaa9923b9f26744a4",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -157,7 +157,7 @@
   {
     "urlref": "/ns/magda/persoon/v0.0.5",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "8c17a2726ffa3a73d58f273efb93c0e6652e7aa3",
+    "branchtag": "e0c65767c08d23bd8495f6bcaa9923b9f26744a4",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
