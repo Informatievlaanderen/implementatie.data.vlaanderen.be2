@@ -1,7 +1,7 @@
 [
   {
     "urlref": "/doc/implementatiemodel/magda/persoon",
-    "seealso": "/doc/implementatiemodel/magda/persoon/v0.0.6",
+    "seealso": "/doc/implementatiemodel/magda/persoon/v0.0.7",
     "dummy": "093",
     "disabled": false
   },
@@ -104,7 +104,25 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "navigation": {
-      "prev": "/doc/implementatiemodel/magda/persoon/v0.0.5"
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.0.5",
+      "next": "/doc/implementatiemodel/magda/persoon/v0.0.7"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
+    "dummy": "093",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.7",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "v0.0.7",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.0.6"
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
@@ -114,7 +132,7 @@
   {
     "urlref": "/ns/magda/persoon",
     "prefix": "magda",
-    "seealso": "/ns/magda/persoon/v0.0.6",
+    "seealso": "/ns/magda/persoon/v0.0.7",
     "type": "voc",
     "dummy": "093",
     "disabled": false
@@ -195,7 +213,21 @@
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
     "navigation": {
-      "prev": "/ns/magda/persoon/v0.0.5"
+      "prev": "/ns/magda/persoon/v0.0.5",
+      "next": "/ns/magda/persoon/v0.0.7"
+    },
+    "dummy": "093",
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/magda/persoon/v0.0.7",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
+    "branchtag": "v0.0.7",
+    "prefix": "magda",
+    "name": "persoon",
+    "filename": "config/persoon-magda-voc.json",
+    "navigation": {
+      "prev": "/ns/magda/persoon/v0.0.6"
     },
     "dummy": "093",
     "disabled": false
