@@ -1,0 +1,53 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/vkbo/onderneming",
+    "seealso": "/doc/implementatiemodel/vkbo/onderneming/v0.0.4",
+    "type": "ap"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "branchtag": "v0.0.1",
+    "name": "organisatie",
+    "filename": "config/organisatie-impl.json",
+    "dummy": "2026-04-21 20:01:00",
+    "navigation": {
+      "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.2"
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.2",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "branchtag": "v0.0.2",
+    "name": "organisatie",
+    "filename": "config/organisatie-impl.json",
+    "dummy": "2026-04-21 20:01:00",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
+      "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.3"
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.3",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "branchtag": "v0.0.3",
+    "name": "organisatie",
+    "filename": "config/organisatie-impl.json",
+    "dummy": "2026-04-21 20:01:00",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.2",
+      "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.4"
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "branchtag": "v0.0.4",
+    "name": "organisatie",
+    "filename": "config/organisatie-impl.json",
+    "dummy": "2026-04-21 20:01:00",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.3"
+    }
+  }
+]
