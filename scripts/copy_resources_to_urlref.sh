@@ -305,6 +305,14 @@ process_publication_file() {
             copied_any=true
         fi
         
+        # Fail the bundle if any external resource could not be fetched (neither RDF nor HTML).
+        FAILED_FETCH_CACHE="$RESOURCES_DIR/ontologies/.failed_external_sources"
+        if [ -f "$FAILED_FETCH_CACHE" ] && [ -s "$FAILED_FETCH_CACHE" ]; then
+            echo "ERROR: failed to fetch the following external sources for $URLREF:"
+            cat "$FAILED_FETCH_CACHE"
+            BUNDLE_FAILED=true
+        fi
+        
         if [ "$copied_any" = "true" ]; then
             echo "Copied resources for $URLREF -> $RESOURCES_DIR"
         else
