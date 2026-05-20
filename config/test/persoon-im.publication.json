@@ -112,6 +112,23 @@
     "disabled": false
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/persoon/dummy",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "v0.0.6",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.0.5"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
+    "dummy": "093",
+    "disabled": false
+  },
+  {
     "urlref": "/ns/magda/persoon",
     "prefix": "magda",
     "seealso": "/ns/magda/persoon/v0.0.6",

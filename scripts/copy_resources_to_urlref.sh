@@ -242,10 +242,12 @@ write_bundle_report() {
     } > "$report_file"
 }
 
+BUNDLE_FAILED=false
+
 process_publication_file() {
     local pubfile=$1
     
-    jq -c 'if type == "array" then .[] else . end | select(.urlref)' "$pubfile" | while IFS= read -r pubpoint; do
+    while IFS= read -r pubpoint; do
         URLREF=$(echo "$pubpoint" | jq -r '.urlref')
         COPY_RESOURCES=$(echo "$pubpoint" | jq -r '(.bundle // false)')
         BUNDLE_DIRECTORY=$(echo "$pubpoint" | jq -r '(.bundleDirectory // "")')
@@ -306,12 +308,13 @@ process_publication_file() {
         if [ "$copied_any" = "true" ]; then
             echo "Copied resources for $URLREF -> $RESOURCES_DIR"
         else
-            echo "bundle=true but no artefact directories found for $URLREF"
+            echo "ERROR: bundle=true but no artefact directories found for $URLREF"
             rm -rf "$RESOURCES_DIR"
+            BUNDLE_FAILED=true
         fi
         
         write_bundle_report "$URLREF" "$copied_any" "$RESOURCES_DIR"
-    done
+    done < <(jq -c 'if type == "array" then .[] else . end | select(.urlref)' "$pubfile")
 }
 
 process_checkout_dir() {
@@ -348,4 +351,9 @@ else
             process_publication_file "$f"
         done
     done
+fi
+
+if [ "$BUNDLE_FAILED" = "true" ]; then
+    echo "ERROR: one or more publication points had bundle=true but no resources to copy"
+    exit 1
 fi
