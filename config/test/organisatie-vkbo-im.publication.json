@@ -2,7 +2,8 @@
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming",
     "seealso": "/doc/implementatiemodel/vkbo/onderneming/v0.0.5",
-    "type": "ap"
+    "type": "ap",
+    "dummy": "058"
   },
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
