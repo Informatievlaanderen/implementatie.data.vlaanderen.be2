@@ -10,7 +10,7 @@
     "branchtag": "v0.0.1",
     "name": "organisatie",
     "filename": "config/organisatie-impl.json",
-    "dummy": "055",
+    "dummy": "056",
     "navigation": {
       "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.2"
     }
@@ -21,7 +21,7 @@
     "branchtag": "v0.0.2",
     "name": "organisatie",
     "filename": "config/organisatie-impl.json",
-    "dummy": "055",
+    "dummy": "056",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
       "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.3"
@@ -33,7 +33,7 @@
     "branchtag": "v0.0.3",
     "name": "organisatie",
     "filename": "config/organisatie-impl.json",
-    "dummy": "055",
+    "dummy": "056",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.2",
       "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.4"
@@ -45,7 +45,7 @@
     "branchtag": "v0.0.4",
     "name": "organisatie",
     "filename": "config/organisatie-impl.json",
-    "dummy": "055",
+    "dummy": "056",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.3",
       "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.5"
@@ -57,7 +57,7 @@
     "branchtag": "master",
     "name": "organisatie",
     "filename": "config/organisatie-vkbo-impl.json",
-    "dummy": "055",
+    "dummy": "056",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.4"
     }
