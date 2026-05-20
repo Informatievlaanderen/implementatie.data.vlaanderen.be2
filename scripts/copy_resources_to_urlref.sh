@@ -362,6 +362,6 @@ else
 fi
 
 if [ "$BUNDLE_FAILED" = "true" ]; then
-    echo "ERROR: one or more publication points had bundle=true but no resources to copy"
+    echo "ERROR: bundling failed — one or more resources could not be fetched or copied"
     exit 1
 fi
