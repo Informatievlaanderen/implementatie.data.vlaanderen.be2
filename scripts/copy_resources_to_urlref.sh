@@ -114,8 +114,8 @@ fetch_external_jsonld() {
             return
         fi
         
-        # Preserve common namespace roots like .../ns unchanged.
-        if [[ "$base_url" == */ns ]]; then
+        # Preserve common namespace roots like .../ns and paths directly under them unchanged.
+        if [[ "$base_url" == */ns || "$base_url" == */ns/* ]]; then
             echo "$base_url"
             return
         fi
