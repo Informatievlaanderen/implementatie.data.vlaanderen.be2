@@ -79,11 +79,11 @@
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
-    "branchtag": "c8c7636a82381f547e8d72d3d1912987f54d43de",
+    "branchtag": "0a2b3dc10123ac99e83ae3b51f50ffc74ea05027",
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-impl.json",
-    "dummy": "068",
+    "dummy": "069",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.6"
     },
@@ -94,7 +94,7 @@
     "urlref": "/ns/vkbo/onderneming",
     "seealso": "/ns/vkbo/onderneming/v0.0.7",
     "type": "voc",
-    "dummy": "068"
+    "dummy": "069"
   },
   {
     "urlref": "/ns/vkbo/onderneming/v0.0.6",
@@ -111,11 +111,11 @@
   {
     "urlref": "/ns/vkbo/onderneming/v0.0.7",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
-    "branchtag": "c8c7636a82381f547e8d72d3d1912987f54d43de",
+    "branchtag": "0a2b3dc10123ac99e83ae3b51f50ffc74ea05027",
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-voc.json",
-    "dummy": "068",
+    "dummy": "069",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.6"
     }
