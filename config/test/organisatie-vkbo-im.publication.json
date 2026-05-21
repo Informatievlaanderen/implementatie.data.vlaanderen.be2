@@ -72,12 +72,26 @@
     "filename": "config/organisatie-vkbo-impl.json",
     "dummy": "061",
     "navigation": {
-      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.5"
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.5",
+      "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
     }
   },
   {
+    "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "branchtag": "fa691ad6df2acfd57cb63bcaf780ae9096dcb6c8",
+    "name": "organisatie",
+    "filename": "config/organisatie-vkbo-impl.json",
+    "dummy": "061",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.6"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Organisatie-VKBO-IMPL/artefacts"
+  },
+  {
     "urlref": "/ns/vkbo/onderneming",
-    "seealso": "/ns/vkbo/onderneming/v0.0.6",
+    "seealso": "/ns/vkbo/onderneming/v0.0.7",
     "type": "voc",
     "dummy": "061"
   },
@@ -89,7 +103,19 @@
     "filename": "config/organisatie-vkbo-voc.json",
     "dummy": "061",
     "navigation": {
-      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.5"
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.5",
+      "next": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
+    }
+  },
+  {
+    "urlref": "/ns/vkbo/onderneming/v0.0.7",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "branchtag": "fa691ad6df2acfd57cb63bcaf780ae9096dcb6c8",
+    "name": "organisatie",
+    "filename": "config/organisatie-vkbo-voc.json",
+    "dummy": "061",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.6"
     }
   }
 ]
