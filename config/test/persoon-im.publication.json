@@ -17,8 +17,6 @@
     "navigation": {
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.2"
     },
-    "bundle": true,
-    "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "095",
     "disabled": false
   },
@@ -35,8 +33,6 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.1",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.3"
     },
-    "bundle": true,
-    "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "095",
     "disabled": false
   },
@@ -53,8 +49,6 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.2",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.4"
     },
-    "bundle": true,
-    "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "095",
     "disabled": false
   },
@@ -71,8 +65,6 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.3",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.5"
     },
-    "bundle": true,
-    "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "095",
     "disabled": false
   },
@@ -89,8 +81,6 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.4",
       "next": "/doc/implementatiemodel/magda/persoon/v0.0.6"
     },
-    "bundle": true,
-    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
     "dummy": "095",
     "disabled": false
   },
@@ -120,6 +110,9 @@
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA geefPersoon REST' --description 'MAGDA OSLO-conforme REST API voor geefPersoon (MVP)' --versionAPI 0.1.0 --language nl"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.6"
