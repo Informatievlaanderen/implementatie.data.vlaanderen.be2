@@ -20,7 +20,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.2",
@@ -38,7 +38,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.3",
@@ -56,7 +56,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.4",
@@ -74,7 +74,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-IM",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.5",
@@ -92,7 +92,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.6",
@@ -107,10 +107,10 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.5",
       "next": "/doc/implementatiemodel/magda/persoon/v0.1.0"
     },
-    "bundle": false,
+    "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.1.0",
@@ -135,7 +135,7 @@
     "seealso": "/ns/magda/persoon/v0.1.0",
     "type": "voc",
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.0.1",
@@ -147,7 +147,7 @@
       "next": "/ns/magda/persoon/v0.0.2"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.0.2",
@@ -161,7 +161,7 @@
       "next": "/ns/magda/persoon/v0.0.3"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.0.3",
@@ -175,7 +175,7 @@
       "next": "/ns/magda/persoon/v0.0.4"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.0.4",
@@ -189,7 +189,7 @@
       "next": "/ns/magda/persoon/v0.0.5"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.0.5",
@@ -203,7 +203,7 @@
       "next": "/ns/magda/persoon/v0.0.6"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.0.6",
@@ -217,7 +217,7 @@
       "next": "/ns/magda/persoon/v0.1.0"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   },
   {
     "urlref": "/ns/magda/persoon/v0.1.0",
@@ -230,6 +230,6 @@
       "prev": "/ns/magda/persoon/v0.0.6"
     },
     "dummy": "094",
-    "disabled": false
+    "disabled": true
   }
 ]
