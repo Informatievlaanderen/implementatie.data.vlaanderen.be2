@@ -1090,8 +1090,6 @@ render_swagger() {
     local PRIMELANGUAGE=${7-false}
     
     FILENAME=$(jq -r ".name" ${JSONI})
-    OUTFILE=${FILENAME}.yaml
-    OUTFILELANGUAGE=${FILENAME}_${GOALLANGUAGE}.yaml
     
     MERGEDFILENAME=merged_${FILENAME}_${GOALLANGUAGE}.jsonld
     MERGEDFILE=${SLINE}/merged/${MERGEDFILENAME}
@@ -1128,7 +1126,7 @@ render_swagger() {
         ;;
     esac
     
-    OUTPUT=${TLINE}/swagger/${OUTFILELANGUAGE}
+    OUTPUT=${TLINE}/swagger
     
     generator_parameters swaggergenerator ${JSONI}
     
@@ -1158,16 +1156,12 @@ render_swagger() {
             cat ${REPORTFILE}
             execution_strickness
         fi
-        if [ -d ${OUTPUT} ]; then
+        if [ -f ${OUTPUT} ]; then
             echo "RENDER-DETAILs: success"
         else
             echo "RENDER-DETAILS: failed"
             cat ${REPORTFILE}
             execution_strickness
-        fi
-        
-        if [ ${PRIMELANGUAGE} == true ]; then
-            cp -r ${TLINE}/swagger/${OUTFILELANGUAGE} ${TLINE}/swagger/${OUTFILE}
         fi
     fi
 }
