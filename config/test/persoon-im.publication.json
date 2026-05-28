@@ -112,14 +112,14 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title MAGDA geefPersoon REST"
+      "parameters": "--title 'MAGDA geefPersoon REST'"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.6"
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "099",
+    "dummy": "100",
     "disabled": false
   },
   {
