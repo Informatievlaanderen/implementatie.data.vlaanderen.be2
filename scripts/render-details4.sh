@@ -1135,7 +1135,7 @@ render_swagger() {
         
         echo "${REPORTLINEPREFIX} oslo-generator-swagger for language ${GOALLANGUAGE}${REPORTLINENEWLINE}" &>>${REPORTFILE}
         echo "${REPORTLINEPREFIX} -------------------------------------${REPORTLINENEWLINE}" &>>${REPORTFILE}
-        eval oslo-generator-swagger \
+        oslo-generator-swagger \
         --input ${MERGEDFILE} \
         --language ${GOALLANGUAGE} \
         --output ${TLINE} \
