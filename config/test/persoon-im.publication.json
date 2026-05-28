@@ -112,7 +112,7 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'MAGDA geefPersoon REST' --description MAGDA OSLO-conforme REST API voor geefPersoon (MVP) --versionAPI 0.1.0 --language nl"
+      "parameters": "--title MAGDA geefPersoon REST"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.6"
