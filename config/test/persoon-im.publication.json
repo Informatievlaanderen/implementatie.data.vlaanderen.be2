@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/persoon",
     "seealso": "/doc/implementatiemodel/magda/persoon/v0.1.0",
-    "dummy": "097",
+    "dummy": "099",
     "disabled": false
   },
   {
@@ -112,14 +112,14 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'MAGDA geefPersoon REST' --description 'MAGDA OSLO-conforme REST API voor geefPersoon (MVP)' --versionAPI 0.1.0 --language nl"
+      "parameters": "--title MAGDA geefPersoon REST --description MAGDA OSLO-conforme REST API voor geefPersoon (MVP) --versionAPI 0.1.0 --language nl"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/persoon/v0.0.6"
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "097",
+    "dummy": "098",
     "disabled": false
   },
   {
