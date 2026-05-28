@@ -83,7 +83,7 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-impl.json",
-    "dummy": "076",
+    "dummy": "077",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.6"
     },

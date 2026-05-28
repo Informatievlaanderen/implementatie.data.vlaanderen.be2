@@ -1158,7 +1158,7 @@ render_swagger() {
             cat ${REPORTFILE}
             execution_strickness
         fi
-        if [ -f ${OUTPUT} ]; then
+        if [ -d ${OUTPUT} ]; then
             echo "RENDER-DETAILs: success"
         else
             echo "RENDER-DETAILS: failed"
@@ -1166,9 +1166,8 @@ render_swagger() {
             execution_strickness
         fi
         
-        prettyprint_jsonld ${TLINE}/swagger/${OUTFILELANGUAGE}
         if [ ${PRIMELANGUAGE} == true ]; then
-            cp ${TLINE}/swagger/${OUTFILELANGUAGE} ${TLINE}/swagger/${OUTFILE}
+            cp -r ${TLINE}/swagger/${OUTFILELANGUAGE} ${TLINE}/swagger/${OUTFILE}
         fi
     fi
 }
