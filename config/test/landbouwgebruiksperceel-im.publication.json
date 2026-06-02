@@ -1,0 +1,35 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/lv/landbouwgebruikersperceel",
+    "seealso": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
+    "type": "ap",
+    "dummy": "001"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.0.1",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
+    "branchtag": "main",
+    "name": "landbouwgebruiksperceel",
+    "filename": "config/landbouwgebruiksperceel-im.json",
+    "dummy": "001",
+    "navigation": {
+    }
+  },
+  {
+    "urlref": "/ns/lv/landbouwgebruiksperceel",
+    "seealso": "/ns/lv/landbouwgebruiksperceel/v0.0.1",
+    "type": "voc",
+    "dummy": "001"
+  },
+  {
+    "urlref": "/ns/lv/landbouwgebruiksperceel/v0.0.1",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
+    "branchtag": "main",
+    "name": "landbouwgebruiksperceel",
+    "prefix": "lv",
+    "filename": "config/landbouwgebruiksperceel-voc.json",
+    "dummy": "001",
+    "navigation": {
+    }
+  }
+]
