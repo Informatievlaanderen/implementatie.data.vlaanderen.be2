@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruikersperceel",
     "seealso": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
     "type": "ap",
-    "dummy": "001"
+    "dummy": "002"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.0.1",
@@ -11,7 +11,7 @@
     "branchtag": "main",
     "name": "landbouwgebruiksperceel",
     "filename": "config/landbouwgebruiksperceel-im.json",
-    "dummy": "001",
+    "dummy": "002",
     "navigation": {
     }
   },
@@ -19,7 +19,7 @@
     "urlref": "/ns/lv/landbouwgebruiksperceel",
     "seealso": "/ns/lv/landbouwgebruiksperceel/v0.0.1",
     "type": "voc",
-    "dummy": "001"
+    "dummy": "002"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel/v0.0.1",
@@ -28,7 +28,7 @@
     "name": "landbouwgebruiksperceel",
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
-    "dummy": "001",
+    "dummy": "002",
     "navigation": {
     }
   }
