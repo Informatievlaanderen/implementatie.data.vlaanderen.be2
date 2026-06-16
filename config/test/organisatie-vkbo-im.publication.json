@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vkbo/onderneming",
     "seealso": "/doc/implementatiemodel/vkbo/onderneming/v1.0.0",
     "type": "ap",
-    "dummy": "095"
+    "dummy": "096"
   },
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
@@ -109,7 +109,7 @@
     "urlref": "/ns/vkbo/onderneming",
     "seealso": "/ns/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "093"
+    "dummy": "094"
   },
   {
     "urlref": "/ns/vkbo/onderneming/v0.0.6",
