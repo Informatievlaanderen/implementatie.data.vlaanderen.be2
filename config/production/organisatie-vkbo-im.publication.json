@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vkbo/onderneming",
     "seealso": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7",
     "type": "ap",
-    "dummy": "078"
+    "dummy": "079"
   },
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
@@ -83,7 +83,7 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-impl.json",
-    "dummy": "078",
+    "dummy": "079",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.6"
     },

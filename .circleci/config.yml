@@ -41,7 +41,7 @@ jobs:
             - raw-input/
   extract-jsonld-details-4:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     steps:
       - checkout
       - attach_workspace:
@@ -98,7 +98,7 @@ jobs:
             - report4
   render-translation-4:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     parameters:
       generatedRepoFingerprint:
         type: string
@@ -187,7 +187,7 @@ jobs:
             - target
   validate-jsonld-4:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     steps:
       - checkout
       - attach_workspace:
@@ -252,7 +252,7 @@ jobs:
             - target
   render-rdf-details-4:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     steps:
       - checkout
       - attach_workspace:
@@ -282,7 +282,7 @@ jobs:
             - target
   render-shacl-details-4:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     steps:
       - checkout
       - attach_workspace:
@@ -447,7 +447,7 @@ jobs:
             - target/
   bundle-release:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     steps:
       - checkout
       - attach_workspace:
@@ -465,7 +465,7 @@ jobs:
             - report4
   expand-links:
     docker:
-      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0
+      - image: informatievlaanderen/oslo-specification-generator:multilingual-dev4.0.3
     steps:
       - checkout
       - attach_workspace:
@@ -722,7 +722,10 @@ jobs:
             git push origin ${CIRCLE_BRANCH}
 workflows:
   version: 2
-  generate_documentation:
+  generate_documentation_non_prod:
+    when:
+      not:
+        equal: [ production, << pipeline.git.branch >> ]
     jobs:
       - checkout
       - extract-jsonld-details-4:
@@ -815,6 +818,82 @@ workflows:
             - bundle-release
       # Make create-artifact depend only on expand-links (the final consolidation step)
       - create-artifact:
-          generatedRepoFingerprint: "SHA256:fmR6NGcDhfDHFggXNHb182Dglr1FEUwL3OpzM7zVl9Q"
+          generatedRepoFingerprint: "SHA256:4z5hJXh2r+2cQVWc13onR3y+Z35PMBHKwJ52yRd/8JA"
           requires:
             - expand-links
+  generate_documentation_prod:
+    when:
+      equal: [ production, << pipeline.git.branch >> ]
+    jobs:
+      - checkout
+      - extract-jsonld-details-4:
+          requires:
+            - checkout
+      - render-translation-4:
+          generatedRepoFingerprint: "$$SSHKEYFINGERPRINT"
+          requires:
+            - extract-jsonld-details-4
+      - validate-jsonld-4:
+          requires:
+            - render-translation-4
+            - extract-jsonld-details-4
+      - render-rdf-details-4:
+          requires:
+            - render-translation-4
+      - render-respec-html-details-4:
+          requires:
+            - render-translation-4
+      - render-html-details-4:
+          requires:
+            - render-translation-4
+      - render-context-details-4:
+          requires:
+            - render-translation-4
+      - render-shacl-details-4:
+          requires:
+            - render-translation-4
+      - render-swagger-4:
+          requires:
+            - render-translation-4
+      - convert-json-to-ttl:
+          requires:
+            - render-shacl-details-4
+      - copy-raw:
+          requires:
+            - checkout
+      - bundle-release:
+          requires:
+            - render-context-details-4
+            - render-rdf-details-4
+            - render-html-details-4
+            - render-respec-html-details-4
+            - validate-jsonld-4
+            - render-shacl-details-4
+            - render-swagger-4
+            - convert-json-to-ttl
+            - copy-raw
+      - expand-links:
+          requires:
+            - bundle-release
+      # Make create-artifact depend only on expand-links (the final consolidation step)
+      - hold-for-prod:
+          type: approval
+          requires:
+            - expand-links
+      - create-artifact:
+          generatedRepoFingerprint: "SHA256:4z5hJXh2r+2cQVWc13onR3y+Z35PMBHKwJ52yRd/8JA"
+          requires:
+            - hold-for-prod
+            - expand-links
+  # New weekly scheduled workflow
+  weekly_maintenance:
+    triggers:
+      - schedule:
+          cron: "0 12 * * 4" # Run at 12 PM (12:00) every Thursday
+          filters:
+            branches:
+              only:
+                - dev
+    jobs:
+      - weekly-trigger-all:
+          repoFingerprint: "SHA256:pOYapwEA5OgOMrEPxcwOxnIMQjserWnAmJGaYIYXOEw"
