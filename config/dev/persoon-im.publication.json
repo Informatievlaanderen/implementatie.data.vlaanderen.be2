@@ -144,6 +144,25 @@
     "disabled": false
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/persoon/test",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "v0.1.1",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA geefPersoon REST' --description 'MAGDA OSLO-conforme REST API voor geefPersoon (MVP)' --versionAPI 0.1.1 --language nl"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.1.0"
+    },
+    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
+    "dummy": "109",
+    "disabled": false
+  },
+  {
     "urlref": "/ns/magda/persoon",
     "prefix": "magda",
     "seealso": "/ns/magda/persoon/v0.1.1",
