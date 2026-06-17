@@ -6,6 +6,12 @@
     "disabled": false
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/test",
+    "seealso": "/doc/implementatiemodel/magda/persoon/test",
+    "dummy": "110",
+    "disabled": false
+  },
+  {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.0.1",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "v0.0.1",
@@ -159,7 +165,7 @@
       "prev": "/doc/implementatiemodel/magda/persoon/v0.1.0"
     },
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "109",
+    "dummy": "110",
     "disabled": false
   },
   {
