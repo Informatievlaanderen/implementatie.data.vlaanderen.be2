@@ -94,7 +94,7 @@
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v1.0.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
-    "branchtag": "08566936a0ed2575d194061aa21b922327beebf5",
+    "branchtag": "3502bb1cb2255944c7131e2e81f594e2f7d032c1",
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-impl.json",
@@ -157,7 +157,7 @@
   {
     "urlref": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
-    "branchtag": "08566936a0ed2575d194061aa21b922327beebf5",
+    "branchtag": "3502bb1cb2255944c7131e2e81f594e2f7d032c1",
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-voc.json",
