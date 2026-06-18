@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vkbo/onderneming",
     "seealso": "/doc/implementatiemodel/vkbo/onderneming/v1.0.0",
     "type": "ap",
-    "dummy": "121"
+    "dummy": "122"
   },
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
@@ -98,7 +98,7 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-impl.json",
-    "dummy": "121",
+    "dummy": "122",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
     },
@@ -109,13 +109,13 @@
     "urlref": "/ns/vkbo/onderneming",
     "seealso": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "121"
+    "dummy": "122"
   },
   {
     "urlref": "/doc/vocabularium/vkbo/onderneming",
     "seealso": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "121"
+    "dummy": "122"
   },
   {
     "urlref": "/ns/vkbo/onderneming/v0.0.6",
@@ -167,7 +167,7 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-voc.json",
-    "dummy": "121",
+    "dummy": "122",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
     }
