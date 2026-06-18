@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTDXHTML1.0Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xml:lang="{{ language }}" lang="{{ language }}" dir="ltr" typeof="bibo:Document " about="" property="dcterms:language" content="{{ language }}" prefix="dcterms: http://purl.org/dc/terms/ bibo: http://purl.org/ontology/bibo/ schema: http://schema.org/ w3p:
-                              http://www.w3.org/2001/02pd/rec54#" xmlns="http://www.w3.org/1999/xhtml">
+                                 http://www.w3.org/2001/02pd/rec54#" xmlns="http://www.w3.org/1999/xhtml">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
@@ -83,7 +83,7 @@
                            </div>
                            <dl>
                               {% if ( ( data.stakeholders.authors | length > 0)   ) %}
-                              <dt>Auteurs</dt>
+                                 <dt>Auteurs</dt>
                               {% endif %}
                               {% set sortedAuthors = (data.stakeholders.authors | sort(attribute='lastName')) %}
                               {% for author in sortedAuthors %}
@@ -106,7 +106,7 @@
                                  </dd>
                               {% endfor %}
                               {% if ( ( data.stakeholders.editors | length > 0)   ) %}
-                              <dt>Editors</dt>
+                                 <dt>Editors</dt>
                               {% endif %}
                               {% set sortedEditors = (data.stakeholders.editors | sort(attribute='lastName')) %}
                               {% for editor in sortedEditors %}
@@ -153,34 +153,34 @@
                               {% endfor %}
                            </dl>
                            {% block metainfo %}
-                           <div class="head" role="metainfo" id="metainfo">
-                                <dl>
-                                   <dt>Brondata</dt>
-                                   <dd>
-                                      <a href="{{ data.metadata.repositoryurl }}">{{ data.metadata.repositoryurl }}</a>
-                                   </dd>
-                                   <dt>Changelog</dt>
-                                   <dd>
-                                      <a href="{{ data.metadata.changelogurl }}">{{ data.metadata.changelogurl }}</a>
-                                   </dd>
-                                   <dt>Opmerkingen en feedback</dt>
-                                   <dd>
-                                      <a href="{{ data.metadata.feedbackurl }}">{{ data.metadata.feedbackurl }}</a>
-                                   </dd>
-                                   <dt>Standaardenregister</dt>
-                                   <dd>
-                                      <a href="{{ data.metadata.standaardregisterurl }}">{{ data.metadata.standaardregisterurl }}</a>
-                                   </dd>
-                                   {% if data.metadata.dependencies %}
-                                      <dt>Afhankelijkheden</dt>
-                                      <dd>
-                                         {% for dep in metadata.dependencies %}
-                                            <a href="{{ dep.packageurl }}">{{ dep.packagelabel }}</a>
-                                         {% endfor %}
-                                      </dd>
-                                   {% endif %}
-                                </dl>
-                           </div>
+                              <div class="head" role="metainfo" id="metainfo">
+                                 <dl>
+                                    <dt>Brondata</dt>
+                                    <dd>
+                                       <a href="{{ data.metadata.repositoryurl }}">{{ data.metadata.repositoryurl }}</a>
+                                    </dd>
+                                    <dt>Changelog</dt>
+                                    <dd>
+                                       <a href="{{ data.metadata.changelogurl }}">{{ data.metadata.changelogurl }}</a>
+                                    </dd>
+                                    <dt>Opmerkingen en feedback</dt>
+                                    <dd>
+                                       <a href="{{ data.metadata.feedbackurl }}">{{ data.metadata.feedbackurl }}</a>
+                                    </dd>
+                                    <dt>Standaardenregister</dt>
+                                    <dd>
+                                       <a href="{{ data.metadata.standaardregisterurl }}">{{ data.metadata.standaardregisterurl }}</a>
+                                    </dd>
+                                    {% if data.metadata.dependencies %}
+                                       <dt>Afhankelijkheden</dt>
+                                       <dd>
+                                          {% for dep in metadata.dependencies %}
+                                             <a href="{{ dep.packageurl }}">{{ dep.packagelabel }}</a>
+                                          {% endfor %}
+                                       </dd>
+                                    {% endif %}
+                                 </dl>
+                              </div>
                            {% endblock %}
                         </div>
                      </div>
@@ -197,20 +197,17 @@
                            {% block introduction %}
                               <p>
                                  Dit document beschrijft een
-                                 <strong>implementatiemodel</strong>, in dit geval
-                                 <strong>
-                                    {{ data.metadata.title }}</strong>. <!-- Een implementatiemodel is een specificatie die bestaande termen hergebruikt van verschillende basis-standaarden en
-                                       daar meer specificiteit aan toevoegt. -->
-                                 <!-- Daarbij wordt het gebruik van de termen toegelicht voor de interbestuurlijke uitwisseling van overheidsinformatie.
-                                 -->
-                              Dit implementatiemodel beantwoordt de vraag over hoe het corresponderende domeinmodel in de praktijk kan toegepast
-                              worden. Daarbij worden de beperkingen (kardinaliteit, codelijsten) toegelicht en de overeenkomstige (RDF) termen
-                              opgelijst.
-                           </p>
-                        {% endblock %}
+                                 <strong>implementatiemodel</strong>, in dit geval het implementatiemodel
+                                 <strong>{{ data.metadata.title }}</strong>. Een implementatiemodel beschrijft het datamodel van een specifieke
+                                    gegevensuitwisseling. Als de uitwisseling in een groep toepassingen valt waarvoor een applicatieprofiel bestaat, houdt
+                                    dit een verdere selectie van termen in of het vaststellen van bijkomende restricties of uitbreidingen voor de specifieke
+                                    toepassing en/of voor het specifieke platform van de gegevensuitwisseling.
+                              </p>
+                           {% endblock %}
+                        </div>
                      </div>
-                     </div>
-                        <div class="vl-region vl-region--no-space-top vl-typography" id="summary"> <h2 class="vl-title--h2" aria-level="1" role="heading" id="h2_sotd">Samenvatting</h2>
+                     <div class="vl-region vl-region--no-space-top vl-typography" id="summary">
+                        <h2 class="vl-title--h2" aria-level="1" role="heading" id="h2_sotd">Samenvatting</h2>
                         {% block summary %}
                            {% if data.metadata.description %}
                               {{ data.metadata.description[language] }}
@@ -243,9 +240,8 @@
                                  href="https://data.vlaanderen.be/id/organisatie/OVO002949"
                                  xmlns:cc="http://creativecommons.org/ns#">Digitaal Vlaanderen</a>
                               is gepubliceerd onder de
-                              <a
-                                 href="https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
-                                 rel="license">"Modellicentie Gratis Hergebruik - v1.0"</a>.
+                              <a href="https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0" rel="license">"Modellicentie
+                                 Gratis Hergebruik - v1.0"</a>.
                            </p>
                         {% endblock %}
                      </div>
@@ -582,7 +578,8 @@
                            <h2 class="vl-title--h2" aria-level="1" role="heading" id="h2_sotd">OpenAPI componenten</h2>
                            (niet normatief)
                            {% block swagger %}
-                              <p>Dit bestand bevat de herbruikbare OpenAPI componenten gebaseerd op de klassen en eigenschappen van dit implementatiemodel:</p>
+                              <p>Dit bestand bevat de herbruikbare OpenAPI componenten gebaseerd op de klassen en eigenschappen van dit
+                                 implementatiemodel:</p>
                               <p>
                                  <a href="{{ data.metadata.documentroot }}/swagger/components.json" target="_blank">
                                     {{ data.metadata.documentroot }}/swagger/components.json</a>
@@ -603,13 +600,15 @@
                                  {% endfor %}
                               </ul>
                            </p>
-                           <p>Externe terminologie, die buiten de eigen namespace {{ data.metadata.uridomain }} valt wordt opgelijst in onderstaande tabel met label, 
-                           zoals deze te vinden is in het model en de achterliggende URI.
+                           <p>Externe terminologie, die buiten de eigen namespace {{ data.metadata.uridomain }} valt wordt opgelijst in
+                              onderstaande tabel met label, zoals deze te vinden is in het model en de achterliggende URI.
                            </p>
                            <p>
-                           Bij het hergebruik van externe terminologie worden de principes van de <a href="https://semiceu.github.io/style-guide/1.0.0/index.html" target="_blank">SEMIC Style Guide</a> gehanteerd. 
-                           Dat wil zeggen: men verklaart zich akkoord met de achterliggende definitie, labels en beperkingen geassocieerd met de 
-                           URI in de context van het implementatiemodel. De definities, labels en gebruiksnotas mogen dus niet in tegenspraak zijn met deze van de URI. 
+                              Bij het hergebruik van externe terminologie worden de principes van de
+                              <a href="https://semiceu.github.io/style-guide/1.0.0/index.html" target="_blank">SEMIC Style Guide</a>
+                              gehanteerd. Dat wil zeggen: men verklaart zich akkoord met de achterliggende definitie, labels en beperkingen
+                              geassocieerd met de URI in de context van het implementatiemodel. De definities, labels en gebruiksnotas mogen dus niet
+                              in tegenspraak zijn met deze van de URI.
                            </p>
                            <table class="definition external">
                               <thead>

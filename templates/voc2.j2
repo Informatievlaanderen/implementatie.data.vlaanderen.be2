@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTDXHTML1.0Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xml:lang="{{ language }}" lang="{{ language }}" dir="ltr" typeof="bibo:Document " about="" property="dcterms:language" content="{{ language }}" prefix="dcterms: http://purl.org/dc/terms/ bibo: http://purl.org/ontology/bibo/ schema: http://schema.org/ w3p:
-                     http://www.w3.org/2001/02pd/rec54#" xmlns="http://www.w3.org/1999/xhtml">
+                       http://www.w3.org/2001/02pd/rec54#" xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>{{ data.metadata.title }}</title>
     <meta charset='utf-8'/>
@@ -180,12 +180,12 @@
                 <div class="vl-region" id="introduction">
                   <div class="vl-introduction vl-typography">
                     {% block introduction %}
-                      <p>Dit document beschrijft een
-                        <strong>vocabularium</strong>, in dit geval
-                        <strong>{{ data.metadata.title }}</strong>. Een vocabularium is een verzameling van herbruikbare termen, namelijk
-                          klassen en eigenschappen, waarvan hun betekenis is vastgelegd door middel van een label en definitie. Voor termen
-                          gedefinieerd in dit domein zijn er nog bijkomende formele afspraken beschikbaar. Voor externe termen worden de formele
-                          afspraken overgenomen van de externe bron.
+                      <p>
+                        Dit document beschrijft een
+                        <strong>vocabularium</strong>, in dit geval het vocabularium
+                        <strong>{{ data.metadata.title }}</strong>. Een vocabularium definieert de klassen en eigenschappen noodzakelijk om een
+                          bepaald kennisdomein te beschrijven. Ze worden geïdentificeerd en gedefinieerd d.m.v. een URI, label en definitie. De
+                          formele taal waarin dit gebeurt is RDF.
                       </p>
                     {% endblock %}
                   </div>
