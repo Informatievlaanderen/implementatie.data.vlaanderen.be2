@@ -423,12 +423,12 @@ validate_jsonld() {
     REPORTFILE=${RLINE}/jsonld-validation.report.md
     echo "${REPORTLINEPREFIX}oslo-jsonld-validator ${REPORTLINENEWLINE}" &>>${REPORTFILE}
     echo "${REPORTLINEPREFIX}-------------------------------------${REPORTLINENEWLINE}" &>>${REPORTFILE}
-    echo "$HOSTNAME"
+    echo "$URIDOMAIN"
     
     oslo-jsonld-validator --input ${MERGEDFILE} \
     --whitelist https://raw.githubusercontent.com/Informatievlaanderen/OSLO-UML-Transformer/refs/heads/configuration/whitelist.json \
     --specificationType ${SPECTYPE} \
-    --publicationEnvironment $HOSTNAME \
+    --publicationEnvironment $URIDOMAIN \
     2>&1 | tee -a ${REPORTFILE}
     
     echo ${REPORTFILE}

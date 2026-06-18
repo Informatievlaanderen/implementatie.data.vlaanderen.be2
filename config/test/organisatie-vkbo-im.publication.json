@@ -158,7 +158,7 @@
     "urlref": "/ns/vkbo/onderneming/v1.0.0",
     "seealso": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "118"
+    "dummy": "119"
   },
   {
     "urlref": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
@@ -167,7 +167,7 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-voc.json",
-    "dummy": "118",
+    "dummy": "119",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
     }
