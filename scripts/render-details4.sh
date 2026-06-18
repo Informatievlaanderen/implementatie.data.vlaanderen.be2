@@ -427,6 +427,7 @@ validate_jsonld() {
     oslo-jsonld-validator --input ${MERGEDFILE} \
     --whitelist https://raw.githubusercontent.com/Informatievlaanderen/OSLO-UML-Transformer/refs/heads/configuration/whitelist.json \
     --specificationType ${SPECTYPE} \
+    --publicationEnvironment $HOSTNAME \
     2>&1 | tee -a ${REPORTFILE}
     
     echo ${REPORTFILE}
