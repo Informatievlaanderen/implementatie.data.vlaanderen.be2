@@ -1,0 +1,57 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/grar/adres",
+    "seealso": "/doc/implementatiemodel/grar/adres/v0.0.1",
+    "dummy": "1",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/implementatiemodel/grar/adres/v0.0.1",
+    "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
+    "branchtag": "master",
+    "name": "adressenregister",
+    "filename": "config/ades-grar-im.json",
+    "swaggergenerator": {
+      "parameters": "--title 'GRAR Adres REST' --description 'GRAR OSLO-conforme REST API voor adressen' --versionAPI 3.0.0 --language nl"
+    },
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {
+      
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Adres-GRAR-IM/artefacts",
+    "dummy": "1",
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/grar/adres",
+    "prefix": "grar",
+    "seealso": "/doc/vocabularium/grar/adres/v0.0.1",
+    "type": "voc",
+    "dummy": "1",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/grar/adres",
+    "prefix": "grar",
+    "seealso": "/doc/vocabularium/grar/adres/v0.0.1",
+    "type": "voc",
+    "dummy": "1",
+    "disabled": false
+  },
+
+  {
+    "urlref": "/doc/vocabularium/grar/adres/v0.0.1",
+    "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
+    "branchtag": "v0.0.1",
+    "name": "adres",
+    "filename": "config/ades-grar-im.json",
+    "navigation": {
+      
+    },
+    "dummy": "1",
+    "disabled": false
+  }
+]
