@@ -45,7 +45,7 @@
   {
     "urlref": "/doc/vocabularium/grar/adres/v0.0.1",
     "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
-    "branchtag": "v0.0.1",
+    "branchtag": "master",
     "name": "adres",
     "filename": "config/ades-grar-im.json",
     "navigation": {
