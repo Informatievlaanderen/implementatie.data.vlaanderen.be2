@@ -9,7 +9,7 @@
     "urlref": "/doc/implementatiemodel/grar/adres/v0.0.1",
     "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
     "branchtag": "master",
-    "name": "adressenregister",
+    "name": "adres-im",
     "filename": "config/ades-grar-im.json",
     "swaggergenerator": {
       "parameters": "--title 'GRAR Adres REST' --description 'GRAR OSLO-conforme REST API voor adressen' --versionAPI 3.0.0 --language nl"
@@ -46,7 +46,7 @@
     "urlref": "/doc/vocabularium/grar/adres/v0.0.1",
     "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
     "branchtag": "master",
-    "name": "adres",
+    "name": "adres-im-voc",
     "filename": "config/ades-grar-im.json",
     "navigation": {
       
