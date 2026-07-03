@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vkbo/onderneming",
     "seealso": "/doc/implementatiemodel/vkbo/onderneming/v1.0.0",
     "type": "ap",
-    "dummy": "134"
+    "dummy": "135"
   },
   {
     "urlref": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
@@ -98,24 +98,24 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-impl.json",
-    "dummy": "134",
+    "dummy": "135",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
     },
-    "bundle": true,
+    "bundle": false,
     "bundleDirectory": "/resources/OSLO-Organisatie-VKBO-IMPL/artefacts"
   },
   {
     "urlref": "/ns/vkbo/onderneming",
     "seealso": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "134"
+    "dummy": "135"
   },
   {
     "urlref": "/doc/vocabularium/vkbo/onderneming",
     "seealso": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "134"
+    "dummy": "135"
   },
   {
     "urlref": "/ns/vkbo/onderneming/v0.0.6",
@@ -158,7 +158,7 @@
     "urlref": "/ns/vkbo/onderneming/v1.0.0",
     "seealso": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
     "type": "voc",
-    "dummy": "134"
+    "dummy": "135"
   },
   {
     "urlref": "/doc/vocabularium/vkbo/onderneming/v1.0.0",
@@ -167,7 +167,7 @@
     "name": "onderneming",
     "prefix": "vkbo",
     "filename": "config/organisatie-vkbo-voc.json",
-    "dummy": "134",
+    "dummy": "135",
     "navigation": {
       "prev": "/doc/implementatiemodel/vkbo/onderneming/v0.0.7"
     }
