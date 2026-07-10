@@ -1,0 +1,24 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/MAGDA/trajectcontrole",
+    "seealso": "/doc/implementatiemodel/MAGDA/trajectcontrole/v0.0.1",
+    "type": "ap",
+    "dummy": "001"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/MAGDA/trajectcontrole/v0.0.1",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
+    "branchtag": "main",
+    "name": "trajectcontrole",
+    "filename": "config/trajectcontrole-im.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA Trajectcontrole REST' --description 'MAGDA OSLO-conforme REST API voor Trajectcontrole' --versionAPI 0.0.1 --language nl"
+    },
+    "navigation": {
+    },
+    "dummy": "001"
+  }
+]
