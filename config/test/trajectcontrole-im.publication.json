@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/MAGDA/trajectcontrole",
     "seealso": "/doc/implementatiemodel/MAGDA/trajectcontrole/v0.0.1",
     "type": "ap",
-    "dummy": "002"
+    "dummy": "003"
   },
   {
     "urlref": "/doc/implementatiemodel/MAGDA/trajectcontrole/v0.0.1",
@@ -19,6 +19,6 @@
     },
     "navigation": {
     },
-    "dummy": "002"
+    "dummy": "003"
   }
 ]
