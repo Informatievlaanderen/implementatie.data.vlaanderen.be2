@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/implementatiemodel/grar/adres",
     "seealso": "/doc/implementatiemodel/grar/adres/v0.0.1",
-    "dummy": "17",
+    "dummy": "18",
     "disabled": false
   },
   {
@@ -22,7 +22,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Adres-GRAR-IM/artefacts",
-    "dummy": "17",
+    "dummy": "18",
     "disabled": false
   },
   {
