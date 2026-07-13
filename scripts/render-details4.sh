@@ -391,11 +391,12 @@ render_metadata() {
 }
 
 validate_jsonld() {
-    echo "validate jsonld: $1 $2 $3 $4"
+    echo "validate jsonld: $1 $2 $3 $4 $5"
     local SLINE=$1
     local TLINE=$2
     local JSONI=$3
     local RLINE=$4
+    local LANGUAGE=$5
     
     MERGEDFILE=${JSONI}
     COMMAND=$(echo '.type')
@@ -428,6 +429,7 @@ validate_jsonld() {
     --whitelist https://raw.githubusercontent.com/Informatievlaanderen/OSLO-UML-Transformer/refs/heads/configuration/whitelist.json \
     --specificationType ${SPECTYPE} \
     --publicationEnvironment $HOSTNAME \
+    --language ${LANGUAGE} \
     2>&1 | tee -a ${REPORTFILE}
     
     echo ${REPORTFILE}
