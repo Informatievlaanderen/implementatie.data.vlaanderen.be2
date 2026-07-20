@@ -165,6 +165,26 @@
     "disabled": false
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/persoon/REST",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "6086ce2ee0a2e63c9333cfaa056037b3ae790cb3",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA geefPersoon REST' --description 'MAGDA OSLO-conforme REST API voor geefPersoon (MVP)' --versionAPI 0.2.0 --language nl --excludeProperties Inwonerschap.persoon Gezinsrelatie.vanPersoon Huwelijk.vanPersoon Samenwonen.vanPersoon Afstamming.vanPersoon Gezin.isHoofdVan Gezin.gezinslid"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.2.0"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
+    "dummy": "114",
+    "disabled": false
+  },
+  {
     "urlref": "/ns/magda/persoon",
     "prefix": "magda",
     "seealso": "/ns/magda/persoon/v0.2.0",
