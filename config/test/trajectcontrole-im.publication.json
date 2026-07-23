@@ -3,12 +3,12 @@
     "urlref": "/doc/implementatiemodel/magda/trajectcontrole",
     "seealso": "/doc/implementatiemodel/magda/trajectcontrole/v0.1.0",
     "type": "ap",
-    "dummy": "012"
+    "dummy": "013"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/trajectcontrole/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
-    "branchtag": "7d4275195939ae4438146872ce4d37bfb0c8b4b1",
+    "branchtag": "main",
     "name": "trajectcontrole",
     "filename": "config/trajectcontrole-im.json",
      "contextgenerator": {
@@ -21,34 +21,34 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "012"
+    "dummy": "013"
   },
   {
     "urlref": "/ns/magda/trajectcontrole",
     "seealso": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "type": "voc",
-    "dummy": "012"
+    "dummy": "013"
   },
   {
     "urlref": "/doc/vocabularium/magda/trajectcontrole",
     "seealso": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "type": "voc",
-    "dummy": "012"
+    "dummy": "013"
   },
   {
     "urlref": "/ns/magda/trajectcontrole/v0.1.0",
     "seealso": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "type": "voc",
-    "dummy": "012"
+    "dummy": "013"
   },
   {
     "urlref": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
-    "branchtag": "7d4275195939ae4438146872ce4d37bfb0c8b4b1",
+    "branchtag": "main",
     "name": "trajectcontrole",
     "prefix": "magda",
     "filename": "config/trajectcontrole-voc.json",
-    "dummy": "012",
+    "dummy": "013",
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/trajectcontrole/v0.1.0"
     }
