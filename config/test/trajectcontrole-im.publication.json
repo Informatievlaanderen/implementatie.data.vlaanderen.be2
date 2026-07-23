@@ -15,10 +15,12 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'magda Trajectcontrole REST' --description 'magda OSLO-conforme REST API voor Trajectcontrole' --versionAPI 0.1.0 --language nl"
+      "parameters": "--title 'MAGDA Eucaris Voertuigregistratie REST' --description 'MAGDA OSLO-conforme REST API voor voertuigregistraties uit het Eucaris ecosysteem.' --versionAPI 0.1.0 --language nl"
     },
     "navigation": {
     },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
     "dummy": "012"
   },
   {
@@ -42,7 +44,7 @@
   {
     "urlref": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
-    "branchtag": "v0.1.0",
+    "branchtag": "main",
     "name": "trajectcontrole",
     "prefix": "magda",
     "filename": "config/trajectcontrole-voc.json",
