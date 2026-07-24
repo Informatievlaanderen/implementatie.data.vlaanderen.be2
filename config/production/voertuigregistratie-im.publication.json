@@ -8,7 +8,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
-    "branchtag": "v0.1.0",
+    "branchtag": "83cd67c1d463ed9be7b4efa61bf018d6d9eec081",
     "name": "voertuigregistratie",
     "filename": "config/voertuigregistratie-im.json",
      "contextgenerator": {
@@ -44,7 +44,7 @@
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
-    "branchtag": "v0.1.0",
+    "branchtag": "83cd67c1d463ed9be7b4efa61bf018d6d9eec081",
     "name": "voertuigregistratie",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-voc.json",
