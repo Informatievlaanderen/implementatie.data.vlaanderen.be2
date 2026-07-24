@@ -8,7 +8,7 @@
   {
     "urlref": "/doc/implementatiemodel/generiek/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "main",
+    "branchtag": "master",
     "name": "generiek",
     "filename": "config/generiek-implementatie-impl.json",
     "contextgenerator": {
@@ -41,7 +41,7 @@
   {
     "urlref": "/doc/vocabularium/generiek/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "main",
+    "branchtag": "master",
     "name": "generiek",
     "filename": "config/generiek-implementatie-voc.json",
     "dummy": "001",
