@@ -18,7 +18,8 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
-    "dummy": "004"
+    "dummy": "004",
+    "disabled": true
   },
   {
     "urlref": "/ns/generiek",
@@ -47,6 +48,7 @@
     "dummy": "004",
     "navigation": {
       "prev": "/doc/implementatiemodel/generiek/v0.1.0"
-    }
+    },
+    "disabled": true
   }
 ]
