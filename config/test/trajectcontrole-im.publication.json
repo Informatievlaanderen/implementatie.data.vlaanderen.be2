@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/trajectcontrole",
     "seealso": "/doc/implementatiemodel/magda/trajectcontrole/v0.1.0",
     "type": "ap",
-    "dummy": "016"
+    "dummy": "017"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/trajectcontrole/v0.1.0",
@@ -19,27 +19,27 @@
     },
     "navigation": {
     },
-    "bundle": true,
+    "bundle": false,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "016"
+    "dummy": "017"
   },
   {
     "urlref": "/ns/magda/trajectcontrole",
     "seealso": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "type": "voc",
-    "dummy": "016"
+    "dummy": "017"
   },
   {
     "urlref": "/doc/vocabularium/magda/trajectcontrole",
     "seealso": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "type": "voc",
-    "dummy": "016"
+    "dummy": "017"
   },
   {
     "urlref": "/ns/magda/trajectcontrole/v0.1.0",
     "seealso": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
     "type": "voc",
-    "dummy": "016"
+    "dummy": "017"
   },
   {
     "urlref": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
@@ -48,7 +48,7 @@
     "name": "trajectcontrole",
     "prefix": "magda",
     "filename": "config/trajectcontrole-voc.json",
-    "dummy": "016",
+    "dummy": "017",
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/trajectcontrole/v0.1.0"
     }
