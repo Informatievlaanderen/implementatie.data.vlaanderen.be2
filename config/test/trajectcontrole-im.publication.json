@@ -43,7 +43,7 @@
   },
   {
     "urlref": "/doc/vocabularium/magda/trajectcontrole/v0.1.0",
-    "repository": "https://github.com/Informatievlaanderen/OSLOthema-organisatie/",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
     "branchtag": "main",
     "name": "trajectcontrole",
     "prefix": "magda",
