@@ -19,7 +19,7 @@
     },
     "navigation": {
     },
-    "bundle": true,
+    "bundle": false,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
     "dummy": "037"
   },
