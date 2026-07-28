@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie",
     "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0",
     "type": "ap",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0",
@@ -19,27 +19,27 @@
     },
     "navigation": {
     },
-    "bundle": false,
+    "bundle": true,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie/v0.1.0",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
@@ -48,7 +48,7 @@
     "name": "voertuigregistratie",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-voc.json",
-    "dummy": "036",
+    "dummy": "037",
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0"
     }
