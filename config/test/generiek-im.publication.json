@@ -25,22 +25,22 @@
     "urlref": "/ns/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "006",
-    "disabled": true
+    "dummy": "007",
+    "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "006",
-    "disabled": true
+    "dummy": "007",
+    "disabled": false
   },
   {
     "urlref": "/ns/generiek/v0.1.0",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "006",
-    "disabled": true
+    "dummy": "007",
+    "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek/v0.1.0",
@@ -48,7 +48,7 @@
     "branchtag": "master",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
-    "dummy": "006",
+    "dummy": "007",
     "navigation": {
       "prev": "/doc/implementatiemodel/generiek/v0.1.0"
     },
