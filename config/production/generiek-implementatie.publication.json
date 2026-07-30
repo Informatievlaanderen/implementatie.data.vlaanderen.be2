@@ -1,0 +1,57 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/generiek",
+    "seealso": "/doc/implementatiemodel/generiek/v0.1.0",
+    "type": "ap",
+    "dummy": "010",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/implementatiemodel/generiek/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
+    "branchtag": "v0.1.0",
+    "name": "generiek-implementatie",
+    "filename": "config/generiek-implementatie-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {},
+    "bundle": false,
+    "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
+    "dummy": "010",
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/generiek",
+    "seealso": "/doc/vocabularium/generiek/v0.1.0",
+    "type": "voc",
+    "dummy": "010",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/generiek",
+    "seealso": "/doc/vocabularium/generiek/v0.1.0",
+    "type": "voc",
+    "dummy": "010",
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/generiek/v0.1.0",
+    "seealso": "/doc/vocabularium/generiek/v0.1.0",
+    "type": "voc",
+    "dummy": "010",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/generiek/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
+    "branchtag": "v0.1.0",
+    "name": "generiek-implementatie",
+    "filename": "config/generiek-implementatie-voc.json",
+    "dummy": "010",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/generiek/v0.1.0"
+    },
+    "disabled": false
+  }
+]
