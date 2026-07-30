@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/persoon",
     "seealso": "/doc/implementatiemodel/magda/persoon/v0.2.0",
-    "dummy": "118",
+    "dummy": "119",
     "disabled": false
   },
   {
@@ -147,7 +147,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "effdf46f3356c40b354986caaae95b3d343e1fb3",
+    "branchtag": "master",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -161,7 +161,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "118",
+    "dummy": "119",
     "disabled": false
   },
   {
@@ -169,7 +169,7 @@
     "prefix": "magda",
     "seealso": "/ns/magda/persoon/v0.2.0",
     "type": "voc",
-    "dummy": "118",
+    "dummy": "119",
     "disabled": false
   },
   {
@@ -285,14 +285,14 @@
   {
     "urlref": "/ns/magda/persoon/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "effdf46f3356c40b354986caaae95b3d343e1fb3",
+    "branchtag": "master",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
     "navigation": {
       "prev": "/ns/magda/persoon/v0.1.1"
     },
-    "dummy": "118",
+    "dummy": "119",
     "disabled": false
   }
 ]
