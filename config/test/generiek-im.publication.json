@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/generiek",
     "seealso": "/doc/implementatiemodel/generiek/v0.1.0",
     "type": "ap",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   },
   {
@@ -18,28 +18,28 @@
     "navigation": {},
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   },
   {
     "urlref": "/ns/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   },
   {
     "urlref": "/ns/generiek/v0.1.0",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   },
   {
@@ -48,7 +48,7 @@
     "branchtag": "master",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
-    "dummy": "008",
+    "dummy": "009",
     "navigation": {
       "prev": "/doc/implementatiemodel/generiek/v0.1.0"
     },
