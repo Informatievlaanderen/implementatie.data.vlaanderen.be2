@@ -11,7 +11,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
     "branchtag": "master",
     "name": "generiek-implementatie",
-    "filename": "config/generiek-implementatie-impl.json",
+    "filename": "config/generiek-implementatie-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
