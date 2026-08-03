@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruikersperceel",
     "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "ap",
-    "dummy": "005"
+    "dummy": "006"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
@@ -19,13 +19,13 @@
     },
     "navigation": {
     },
-    "dummy": "005"
+    "dummy": "006"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel",
     "seealso": "/ns/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "voc",
-    "dummy": "005"
+    "dummy": "006"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel/v0.1.0",
@@ -36,6 +36,6 @@
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {
     },
-    "dummy": "005"
+    "dummy": "006"
   }
 ]
