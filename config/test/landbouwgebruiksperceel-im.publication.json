@@ -1,12 +1,12 @@
 [
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruikersperceel",
-    "seealso": "/doc/implementatiemodel/vkbo/onderneming/v0.0.1",
+    "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "ap",
-    "dummy": "004"
+    "dummy": "005"
   },
   {
-    "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.0.1",
+    "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
     "branchtag": "main",
     "name": "landbouwgebruiksperceel",
@@ -15,20 +15,20 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'MAGDA geefPersoon REST' --description 'MAGDA OSLO-conforme REST API voor geefPersoon (MVP)' --versionAPI 0.1.1 --language nl"
+      "parameters": "--title 'MAGDA landbouw.landbouwgebruikspercelen REST' --description 'MAGDA OSLO-conforme REST API voor informatie over landbouwgebruikspercelen' --versionAPI 0.1.0 --language nl"
     },
     "navigation": {
     },
-    "dummy": "004"
+    "dummy": "005"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel",
-    "seealso": "/ns/lv/landbouwgebruiksperceel/v0.0.1",
+    "seealso": "/ns/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "voc",
-    "dummy": "004"
+    "dummy": "005"
   },
   {
-    "urlref": "/ns/lv/landbouwgebruiksperceel/v0.0.1",
+    "urlref": "/ns/lv/landbouwgebruiksperceel/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
     "branchtag": "main",
     "name": "landbouwgebruiksperceel",
@@ -36,6 +36,6 @@
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {
     },
-    "dummy": "004"
+    "dummy": "005"
   }
 ]
