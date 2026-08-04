@@ -17,7 +17,7 @@
     "swaggergenerator": {
       "parameters": "--title 'MAGDA landbouw.landbouwgebruikspercelen REST' --description 'MAGDA OSLO-conforme REST API voor informatie over landbouwgebruikspercelen' --versionAPI 0.1.0 --language nl"
     },
-    "bundle": true,
+    "bundle": false,
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
     "navigation": {
     },
