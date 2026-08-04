@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel",
     "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "ap",
-    "dummy": "023"
+    "dummy": "024"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
@@ -21,19 +21,19 @@
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
     "navigation": {
     },
-    "dummy": "023"
+    "dummy": "024"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel",
     "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "voc",
-    "dummy": "023"
+    "dummy": "024"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel",
     "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
     "type": "voc",
-    "dummy": "023"
+    "dummy": "024"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
@@ -44,6 +44,6 @@
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {
     },
-    "dummy": "023"
+    "dummy": "024"
   }
 ]
