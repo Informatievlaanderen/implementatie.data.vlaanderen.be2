@@ -1,0 +1,49 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel",
+    "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
+    "type": "ap",
+    "dummy": "020"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
+    "branchtag": "main",
+    "name": "landbouwgebruiksperceel",
+    "filename": "config/landbouwgebruiksperceel-im.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA landbouw.landbouwgebruikspercelen REST' --description 'MAGDA OSLO-conforme REST API voor informatie over landbouwgebruikspercelen' --versionAPI 0.1.0 --language nl"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
+    "navigation": {
+    },
+    "dummy": "020"
+  },
+  {
+    "urlref": "/ns/lv/landbouwgebruiksperceel",
+    "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
+    "type": "voc",
+    "dummy": "020"
+  },
+  {
+    "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel",
+    "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
+    "type": "voc",
+    "dummy": "020"
+  },
+  {
+    "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
+    "branchtag": "main",
+    "name": "landbouwgebruiksperceel",
+    "prefix": "lv",
+    "filename": "config/landbouwgebruiksperceel-voc.json",
+    "navigation": {
+    },
+    "dummy": "020"
+  }
+]
