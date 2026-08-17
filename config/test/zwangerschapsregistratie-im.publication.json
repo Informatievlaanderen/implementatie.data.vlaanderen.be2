@@ -1,0 +1,49 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/lv/zwangerschapsregistratie",
+    "seealso": "/doc/implementatiemodel/lv/zwangerschapsregistratie/v0.1.0",
+    "type": "ap",
+    "dummy": "019"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/lv/zwangerschapsregistratie/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
+    "branchtag": "main",
+    "name": "zwangerschapsregistratie",
+    "filename": "config/zwangerschapsregistratie-im.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.0 --language nl"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-zwangerschapsregistratie-IM/artefacts",
+    "navigation": {
+    },
+    "dummy": "019"
+  },
+  {
+    "urlref": "/ns/lv/zwangerschapsregistratie",
+    "seealso": "/doc/vocabularium/lv/zwangerschapsregistratie/v0.1.0",
+    "type": "voc",
+    "dummy": "019"
+  },
+  {
+    "urlref": "/doc/vocabularium/lv/zwangerschapsregistratie",
+    "seealso": "/doc/vocabularium/lv/zwangerschapsregistratie/v0.1.0",
+    "type": "voc",
+    "dummy": "019"
+  },
+  {
+    "urlref": "/doc/vocabularium/lv/zwangerschapsregistratie/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
+    "branchtag": "main",
+    "name": "zwangerschapsregistratie",
+    "prefix": "lv",
+    "filename": "config/zwangerschapsregistratie-voc.json",
+    "navigation": {
+    },
+    "dummy": "019"
+  }
+]
