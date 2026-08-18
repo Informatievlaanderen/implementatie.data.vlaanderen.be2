@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/lv/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/lv/zwangerschapsregistratie/v0.1.0",
     "type": "ap",
-    "dummy": "020"
+    "dummy": "021"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/zwangerschapsregistratie/v0.1.0",
@@ -21,19 +21,19 @@
     "bundleDirectory": "/resources/OSLO-zwangerschapsregistratie-IM/artefacts",
     "navigation": {
     },
-    "dummy": "020"
+    "dummy": "021"
   },
   {
     "urlref": "/ns/lv/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/lv/zwangerschapsregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "020"
+    "dummy": "021"
   },
   {
     "urlref": "/doc/vocabularium/lv/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/lv/zwangerschapsregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "020"
+    "dummy": "021"
   },
   {
     "urlref": "/doc/vocabularium/lv/zwangerschapsregistratie/v0.1.0",
@@ -44,6 +44,6 @@
     "filename": "config/zwangerschapsregistratie-voc.json",
     "navigation": {
     },
-    "dummy": "020"
+    "dummy": "021"
   }
 ]
