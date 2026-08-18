@@ -17,10 +17,6 @@
     "swaggergenerator": {
       "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.0 --language nl"
     },
-    "bundle": true,
-    "bundleDirectory": "/resources/OSLO-zwangerschapsregistratie-IM/artefacts",
-    "navigation": {
-    },
     "dummy": "023"
   },
   {
