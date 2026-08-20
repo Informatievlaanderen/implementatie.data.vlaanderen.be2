@@ -2,12 +2,12 @@
   {
     "urlref": "/doc/implementatiemodel/grar/perceel",
     "seealso": "/doc/implementatiemodel/grar/perceel/v0.0.1",
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/grar/perceel/v0.0.1",
-    "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
+    "repository": "https://github.com/informatievlaanderen/OSLOthema-perceel",
     "branchtag": "master",
     "name": "perceel-im",
     "filename": "config/perceel-grar-im.json",
@@ -22,7 +22,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Perceel-GRAR-IM/artefacts",
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
@@ -30,7 +30,7 @@
     "prefix": "grar",
     "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
     "type": "voc",
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
   {
@@ -38,7 +38,7 @@
     "prefix": "grar",
     "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
     "type": "voc",
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   },
 
@@ -51,7 +51,7 @@
     "navigation": {
       
     },
-    "dummy": "01",
+    "dummy": "02",
     "disabled": false
   }
 ]
