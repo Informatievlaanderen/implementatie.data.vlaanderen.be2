@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/implementatiemodel/grar/perceel",
     "seealso": "/doc/implementatiemodel/grar/perceel/v0.0.1",
-    "dummy": "04",
+    "dummy": "05",
     "disabled": false
   },
   {
@@ -22,7 +22,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Perceel-GRAR-IM/artefacts",
-    "dummy": "04",
+    "dummy": "05",
     "disabled": false
   },
   {
@@ -30,7 +30,7 @@
     "prefix": "grar",
     "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
     "type": "voc",
-    "dummy": "04",
+    "dummy": "05",
     "disabled": false
   },
   {
@@ -38,7 +38,7 @@
     "prefix": "grar",
     "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
     "type": "voc",
-    "dummy": "04",
+    "dummy": "05",
     "disabled": false
   },
 
@@ -51,7 +51,7 @@
     "navigation": {
       
     },
-    "dummy": "04",
+    "dummy": "05",
     "disabled": false
   }
 ]
