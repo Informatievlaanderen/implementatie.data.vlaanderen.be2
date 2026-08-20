@@ -1,0 +1,57 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/grar/perceel",
+    "seealso": "/doc/implementatiemodel/grar/perceel/v0.0.1",
+    "dummy": "01",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/implementatiemodel/grar/perceel/v0.0.1",
+    "repository": "https://github.com/informatievlaanderen/oslothema-gebouwEnAdres",
+    "branchtag": "master",
+    "name": "perceel-im",
+    "filename": "config/perceel-grar-im.json",
+    "swaggergenerator": {
+      "parameters": "--title 'GRAR Perceel REST' --description 'GRAR OSLO-conforme REST API voor percelen' --versionAPI 3.0.0 --language nl"
+    },
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {
+      
+    },
+    "bundle": false,
+    "bundleDirectory": "/resources/OSLO-Perceel-GRAR-IM/artefacts",
+    "dummy": "01",
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/grar/perceel",
+    "prefix": "grar",
+    "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
+    "type": "voc",
+    "dummy": "01",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/grar/perceel",
+    "prefix": "grar",
+    "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
+    "type": "voc",
+    "dummy": "01",
+    "disabled": false
+  },
+
+  {
+    "urlref": "/doc/vocabularium/grar/perceel/v0.0.1",
+    "repository": "https://github.com/informatievlaanderen/OSLOthema-perceel",
+    "branchtag": "master",
+    "name": "perceel-im-voc",
+    "filename": "config/perceel-grar-im.json",
+    "navigation": {
+      
+    },
+    "dummy": "01",
+    "disabled": false
+  }
+]
