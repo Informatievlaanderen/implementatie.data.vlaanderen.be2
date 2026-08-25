@@ -1,7 +1,7 @@
 [
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie",
-    "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.1",
+    "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0",
     "type": "ap",
     "dummy": "049"
   },
@@ -43,14 +43,33 @@
     "dummy": "049"
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
+    "branchtag": "v0.2.0",
+    "name": "voertuigregistratie-im",
+    "filename": "config/voertuigregistratie-im-impl.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA Eucaris Voertuigregistratie REST' --description 'MAGDA OSLO-conforme REST API voor voertuigregistraties uit het Eucaris ecosysteem.' --versionAPI 0.1.1 --language nl --outputFormat application/json application/yaml"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.1"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
+    "dummy": "001"
+  },
+  {
     "urlref": "/ns/magda/voertuigregistratie",
-    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.1.1",
+    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
     "type": "voc",
     "dummy": "049"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie",
-    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.1.1",
+    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
     "type": "voc",
     "dummy": "049"
   },
@@ -81,6 +100,18 @@
     "dummy": "049",
     "navigation": {
       "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0"
+    }
+  },
+  {
+    "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
+    "branchtag": "v0.2.0",
+    "name": "voertuigregistratie-im",
+    "prefix": "magda",
+    "filename": "config/voertuigregistratie-im-voc.json",
+    "dummy": "049",
+    "navigation": {
+      "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.1.1"
     }
   }
 ]
