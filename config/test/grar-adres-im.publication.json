@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/implementatiemodel/grar/adres",
     "seealso": "/doc/implementatiemodel/grar/adres/v0.0.1",
-    "dummy": "34",
+    "dummy": "35",
     "disabled": false
   },
   {
@@ -22,7 +22,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Adres-GRAR-IM/artefacts",
-    "dummy": "34",
+    "dummy": "35",
     "disabled": false
   },
   {
@@ -30,7 +30,7 @@
     "prefix": "grar",
     "seealso": "/doc/vocabularium/grar/adres/v0.0.1",
     "type": "voc",
-    "dummy": "34",
+    "dummy": "35",
     "disabled": false
   },
   {
@@ -38,7 +38,7 @@
     "prefix": "grar",
     "seealso": "/doc/vocabularium/grar/adres/v0.0.1",
     "type": "voc",
-    "dummy": "34",
+    "dummy": "35",
     "disabled": false
   },
 
@@ -51,7 +51,7 @@
     "navigation": {
       
     },
-    "dummy": "34",
+    "dummy": "35",
     "disabled": false
   }
 ]
