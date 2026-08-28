@@ -1,7 +1,7 @@
 [
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie",
-    "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0",
+    "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.1",
     "type": "ap",
     "dummy": "004"
   },
@@ -62,16 +62,36 @@
     "dummy": "004"
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.1",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
+    "branchtag": "main",
+    "name": "voertuigregistratie-im",
+    "filename": "config/voertuigregistratie-im-impl.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA Eucaris Voertuigregistratie REST' --description 'MAGDA OSLO-conforme REST API voor voertuigregistraties uit het Eucaris ecosysteem.' --versionAPI 0.1.1 --language nl --outputFormat application/json application/yaml"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
+    "dummy": "001"
+  },
+
+  {
     "urlref": "/ns/magda/voertuigregistratie",
-    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
+    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.1",
     "type": "voc",
-    "dummy": "004"
+    "dummy": "001"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie",
-    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
+    "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.1",
     "type": "voc",
-    "dummy": "004"
+    "dummy": "001"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie/v0.1.0",
@@ -112,6 +132,18 @@
     "dummy": "004",
     "navigation": {
       "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.1.1"
+    }
+  },
+  {
+    "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.2.1",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
+    "branchtag": "main",
+    "name": "voertuigregistratie-im",
+    "prefix": "magda",
+    "filename": "config/voertuigregistratie-im-voc.json",
+    "dummy": "001",
+    "navigation": {
+      "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0"
     }
   }
 ]
