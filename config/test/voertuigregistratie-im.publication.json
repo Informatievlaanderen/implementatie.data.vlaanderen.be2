@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie",
     "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0",
     "type": "ap",
-    "dummy": "003"
+    "dummy": "004"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0",
@@ -21,7 +21,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "049"
+    "dummy": "050"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.1",
@@ -40,7 +40,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "049"
+    "dummy": "050"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0",
@@ -59,25 +59,25 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "003"
+    "dummy": "004"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
     "type": "voc",
-    "dummy": "003"
+    "dummy": "004"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0",
     "type": "voc",
-    "dummy": "003"
+    "dummy": "004"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie/v0.1.0",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "049"
+    "dummy": "050"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
@@ -86,7 +86,7 @@
     "name": "voertuigregistratie-im",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-im-voc.json",
-    "dummy": "049",
+    "dummy": "050",
     "navigation": {
     }
   },
@@ -97,7 +97,7 @@
     "name": "voertuigregistratie-im",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-im-voc.json",
-    "dummy": "049",
+    "dummy": "050",
     "navigation": {
       "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0"
     }
@@ -109,7 +109,7 @@
     "name": "voertuigregistratie-im",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-im-voc.json",
-    "dummy": "003",
+    "dummy": "004",
     "navigation": {
       "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.1.1"
     }
