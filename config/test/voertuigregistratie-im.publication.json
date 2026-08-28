@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie",
     "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.1",
     "type": "ap",
-    "dummy": "004"
+    "dummy": "005"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0",
@@ -71,27 +71,27 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'MAGDA Eucaris Voertuigregistratie REST' --description 'MAGDA OSLO-conforme REST API voor voertuigregistraties uit het Eucaris ecosysteem.' --versionAPI 0.1.1 --language nl --outputFormat application/json application/yaml"
+      "parameters": "--title 'MAGDA Eucaris Voertuigregistratie REST' --description 'MAGDA OSLO-conforme REST API voor voertuigregistraties uit het Eucaris ecosysteem.' --versionAPI 0.2.1 --language nl --outputFormat application/json application/yaml"
     },
     "navigation": {
       "prev": "/doc/implementatiemodel/magda/voertuigregistratie/v0.2.0"
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "001"
+    "dummy": "002"
   },
 
   {
     "urlref": "/ns/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.1",
     "type": "voc",
-    "dummy": "001"
+    "dummy": "002"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.2.1",
     "type": "voc",
-    "dummy": "001"
+    "dummy": "002"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie/v0.1.0",
@@ -141,7 +141,7 @@
     "name": "voertuigregistratie-im",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-im-voc.json",
-    "dummy": "001",
+    "dummy": "002",
     "navigation": {
       "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.2.0"
     }
