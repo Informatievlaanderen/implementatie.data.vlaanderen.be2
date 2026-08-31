@@ -17,12 +17,15 @@
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
+    "jsonldvalidation": {
+      "parameters": "--labelWhitelist https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-perceel/refs/heads/master/labelWhitelist.json"
+    },
     "navigation": {
       
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Perceel-GRAR-IM/artefacts",
-    "dummy": "11",
+    "dummy": "12",
     "disabled": false
   },
   {
