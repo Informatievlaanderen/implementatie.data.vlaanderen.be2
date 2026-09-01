@@ -1,7 +1,7 @@
 {
   "primeLanguage": "nl",
   "otherLanguages": [],
-  "hostname": "https://implementatie.data.dev-vlaanderen.be/",
+  "hostname": "https://implementatie.data.dev-vlaanderen.be",
   "domain": "implementatie.data.vlaanderen.be",
   "publicationpoints": ["dev"],
   "generatedrepository": {
