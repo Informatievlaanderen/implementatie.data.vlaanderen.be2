@@ -1,14 +1,14 @@
 [
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.3",
+    "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.4",
     "type": "ap",
     "dummy": "030"
   },
   {
-    "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.3",
+    "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "v0.1.3",
+    "branchtag": "v0.1.4",
     "name": "zwangerschapsregistratie",
     "filename": "config/zwangerschapsregistratie-im.json",
      "contextgenerator": {
@@ -21,20 +21,20 @@
   },
   {
     "urlref": "/ns/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.3",
+    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.4",
     "type": "voc",
     "dummy": "030"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.3",
+    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.4",
     "type": "voc",
     "dummy": "030"
   },
   {
-    "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.3",
+    "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "v0.1.3",
+    "branchtag": "v0.1.4",
     "name": "zwangerschapsregistratie",
     "prefix": "vitalink",
     "filename": "config/zwangerschapsregistratie-voc.json",
