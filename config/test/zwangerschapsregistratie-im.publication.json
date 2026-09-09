@@ -1,14 +1,14 @@
 [
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.4",
+    "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.5",
     "type": "ap",
-    "dummy": "031"
+    "dummy": "032"
   },
   {
-    "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.4",
+    "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.5",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "v0.1.4",
+    "branchtag": "v0.1.5",
     "name": "zwangerschapsregistratie",
     "filename": "config/zwangerschapsregistratie-im.json",
      "contextgenerator": {
@@ -17,29 +17,29 @@
     "swaggergenerator": {
       "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.0 --language nl"
     },
-    "dummy": "031"
+    "dummy": "032"
   },
   {
     "urlref": "/ns/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.4",
+    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.5",
     "type": "voc",
-    "dummy": "031"
+    "dummy": "032"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.4",
+    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.5",
     "type": "voc",
-    "dummy": "031"
+    "dummy": "032"
   },
   {
-    "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.4",
+    "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.5",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "v0.1.4",
+    "branchtag": "v0.1.5",
     "name": "zwangerschapsregistratie",
     "prefix": "vitalink",
     "filename": "config/zwangerschapsregistratie-voc.json",
     "navigation": {
     },
-    "dummy": "031"
+    "dummy": "032"
   }
 ]
