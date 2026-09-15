@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.6",
     "type": "ap",
-    "dummy": "042"
+    "dummy": "043"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.6",
@@ -15,8 +15,8 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.0 --language nl --excludeProperties Persoon.heeftZwangerschap Foetus.deelVan MedischeObservatie.vastgesteld MedischVerslag.documenteert Agent.steltOp"
+      "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.0 --language nl --excludeProperties Persoon.heeftZwangerschap Foetus.deelVan MedischeObservatie.vastgesteld MedischVerslag.documenteert Agent.steltOp Organisatie.steltOp Persoon.steltOp Zorgverlener.steltOp Zorgverlener.heeftZwangerschap"
     },
-    "dummy": "042"
+    "dummy": "043"
   }
 ]
