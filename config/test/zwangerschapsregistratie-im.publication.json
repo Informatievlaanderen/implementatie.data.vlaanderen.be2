@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.6",
     "type": "ap",
-    "dummy": "037"
+    "dummy": "038"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.6",
@@ -17,6 +17,6 @@
     "swaggergenerator": {
       "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.0 --language nl"
     },
-    "dummy": "037"
+    "dummy": "038"
   }
 ]
