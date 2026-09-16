@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie",
     "seealso": "/doc/implementatiemodel/magda/voertuigregistratie/v0.3.0",
     "type": "ap",
-    "dummy": "007"
+    "dummy": "008"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.1.0",
@@ -83,7 +83,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/voertuigregistratie/v0.3.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
-    "branchtag": "ef15fae58cf21adce326473f52b285580127bc45",
+    "branchtag": "v0.3.0",
     "name": "voertuigregistratie-im",
     "filename": "config/voertuigregistratie-im-impl.json",
      "contextgenerator": {
@@ -97,19 +97,19 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Trajectcontrole-MAGDA-IM/artefacts",
-    "dummy": "004"
+    "dummy": "005"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.3.0",
     "type": "voc",
-    "dummy": "004"
+    "dummy": "005"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.3.0",
     "type": "voc",
-    "dummy": "004"
+    "dummy": "005"
   },
   {
     "urlref": "/ns/magda/voertuigregistratie/v0.1.0",
@@ -139,7 +139,7 @@
     "urlref": "/ns/magda/voertuigregistratie/v0.3.0",
     "seealso": "/doc/vocabularium/magda/voertuigregistratie/v0.3.0",
     "type": "voc",
-    "dummy": "051"
+    "dummy": "052"
   },
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.1.0",
@@ -191,11 +191,11 @@
   {
     "urlref": "/doc/vocabularium/magda/voertuigregistratie/v0.3.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-trajectcontrole/",
-    "branchtag": "ef15fae58cf21adce326473f52b285580127bc45",
+    "branchtag": "v0.3.0",
     "name": "voertuigregistratie-im",
     "prefix": "magda",
     "filename": "config/voertuigregistratie-im-voc.json",
-    "dummy": "002",
+    "dummy": "004",
     "navigation": {
       "prev": "/doc/vocabularium/magda/voertuigregistratie/v0.2.1"
     }
