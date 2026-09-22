@@ -267,9 +267,9 @@ process_publication_file() {
 
     while IFS= read -r pubpoint; do
         URLREF=$(echo "$pubpoint" | jq -r '.urlref')
-        COPY_RESOURCES=$(echo "$pubpoint" | jq -r '(.bundle // false)')
+        COPY_RESOURCES=$(echo "$pubpoint" | jq -r 'if has("bundle") then .bundle else false end')
         BUNDLE_DIRECTORY=$(echo "$pubpoint" | jq -r '(.bundleDirectory // "")')
-        FETCH_EXTERNAL_ONTOLOGIES=$(echo "$pubpoint" | jq -r '(.bundleExternalOntologies // true)')
+        FETCH_EXTERNAL_ONTOLOGIES=$(echo "$pubpoint" | jq -r 'if has("bundleExternalOntologies") then .bundleExternalOntologies else true end')
 
         echo "bundle=$COPY_RESOURCES bundleDirectory=$BUNDLE_DIRECTORY bundleExternalOntologies=$FETCH_EXTERNAL_ONTOLOGIES"
         
