@@ -261,17 +261,11 @@ BUNDLE_FAILED=false
 process_publication_file() {
     local pubfile=$1
 
-    echo "=== content of $pubfile ==="
-    cat "$pubfile"
-    echo "=== end of $pubfile ==="
-
     while IFS= read -r pubpoint; do
         URLREF=$(echo "$pubpoint" | jq -r '.urlref')
         COPY_RESOURCES=$(echo "$pubpoint" | jq -r 'if has("bundle") then .bundle else false end')
         BUNDLE_DIRECTORY=$(echo "$pubpoint" | jq -r '(.bundleDirectory // "")')
         FETCH_EXTERNAL_ONTOLOGIES=$(echo "$pubpoint" | jq -r 'if has("bundleExternalOntologies") then .bundleExternalOntologies else true end')
-
-        echo "bundle=$COPY_RESOURCES bundleDirectory=$BUNDLE_DIRECTORY bundleExternalOntologies=$FETCH_EXTERNAL_ONTOLOGIES"
         
         if [ -z "$URLREF" ] || [ "$URLREF" = "null" ]; then
             continue
