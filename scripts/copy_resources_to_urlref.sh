@@ -266,6 +266,8 @@ process_publication_file() {
         COPY_RESOURCES=$(echo "$pubpoint" | jq -r '(.bundle // false)')
         BUNDLE_DIRECTORY=$(echo "$pubpoint" | jq -r '(.bundleDirectory // "")')
         FETCH_EXTERNAL_ONTOLOGIES=$(echo "$pubpoint" | jq -r '(.bundleExternalOntologies // true)')
+
+        echo "bundle=$COPY_RESOURCES bundleDirectory=$BUNDLE_DIRECTORY bundleExternalOntologies=$FETCH_EXTERNAL_ONTOLOGIES"
         
         if [ -z "$URLREF" ] || [ "$URLREF" = "null" ]; then
             continue
