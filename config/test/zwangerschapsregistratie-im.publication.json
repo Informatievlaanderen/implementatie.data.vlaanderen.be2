@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
     "type": "ap",
-    "dummy": "059"
+    "dummy": "060"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -22,6 +22,6 @@
     "bundleExternalOntologies": false,
     "navigation": {
     },
-    "dummy": "059"
+    "dummy": "060"
   }
 ]
