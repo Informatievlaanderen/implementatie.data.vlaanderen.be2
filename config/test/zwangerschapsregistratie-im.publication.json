@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
     "type": "ap",
-    "dummy": "062"
+    "dummy": "063"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -22,19 +22,19 @@
     "bundleExternalOntologies": false,
     "navigation": {
     },
-    "dummy": "062"
+    "dummy": "063"
   },
   {
     "urlref": "/ns/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
     "type": "voc",
-    "dummy": "062"
+    "dummy": "063"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
     "type": "voc",
-    "dummy": "062"
+    "dummy": "063"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -45,6 +45,6 @@
     "filename": "config/zwangerschapsregistratie-voc.json",
     "navigation": {
     },
-    "dummy": "062"
+    "dummy": "063"
   }
 ]
