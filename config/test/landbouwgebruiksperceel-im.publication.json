@@ -8,7 +8,7 @@
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
-    "branchtag": "2032b92961e17b766a8ec6f46e94c7eb07e7aa6c",
+    "branchtag": "bf31d390cdea7289baf005f7e4c1e494112b5a2f",
     "name": "landbouwgebruiksperceel",
     "filename": "config/landbouwgebruiksperceel-im.json",
      "contextgenerator": {
@@ -38,7 +38,7 @@
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
-    "branchtag": "2032b92961e17b766a8ec6f46e94c7eb07e7aa6c",
+    "branchtag": "bf31d390cdea7289baf005f7e4c1e494112b5a2f",
     "name": "landbouwgebruiksperceel",
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
