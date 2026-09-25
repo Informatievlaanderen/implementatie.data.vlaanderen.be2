@@ -3,12 +3,12 @@
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel",
     "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.2.0",
     "type": "ap",
-    "dummy": "027"
+    "dummy": "028"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
-    "branchtag": "67688d06caf99f33af8ff9af5556422dc0d81283",
+    "branchtag": "7bf6f07c96cca2e072890220a20e1f341ef53844",
     "name": "landbouwgebruiksperceel",
     "filename": "config/landbouwgebruiksperceel-im.json",
      "contextgenerator": {
@@ -21,29 +21,29 @@
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
     "navigation": {
     },
-    "dummy": "027"
+    "dummy": "028"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel",
     "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
     "type": "voc",
-    "dummy": "027"
+    "dummy": "028"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel",
     "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
     "type": "voc",
-    "dummy": "027"
+    "dummy": "028"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
-    "branchtag": "67688d06caf99f33af8ff9af5556422dc0d81283",
+    "branchtag": "7bf6f07c96cca2e072890220a20e1f341ef53844",
     "name": "landbouwgebruiksperceel",
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {
     },
-    "dummy": "027"
+    "dummy": "028"
   }
 ]
