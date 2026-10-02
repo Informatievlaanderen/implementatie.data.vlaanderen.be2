@@ -1,0 +1,24 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie",
+    "seealso": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
+    "type": "ap",
+    "dummy": "064"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
+    "branchtag": "34d638fdbdf59d5391e790fdbaddd7e63c2fa06a",
+    "name": "wegenvignetregistratie",
+    "filename": "config/wegenvignetregistratie-im.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'magda wegenvignetregistratie REST' --description 'OSLO-conforme REST API voor informatie over wegenvignetregistratie' --versionAPI 0.1.0 --language nl --outputFormat application/json application/yaml"
+    },
+    "navigation": {
+    },
+    "dummy": "064"
+  }
+]
