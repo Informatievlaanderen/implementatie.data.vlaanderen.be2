@@ -8,8 +8,8 @@
   {
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
-    "branchtag": "34d638fdbdf59d5391e790fdbaddd7e63c2fa06a",
-    "name": "Wegenvignetregistratie",
+    "branchtag": "fa4b21b072358f219bae1625e1be19aa273c18fb",
+    "name": "wegenvignetregistratie",
     "filename": "config/wegenvignetregistratie-im.json",
      "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
