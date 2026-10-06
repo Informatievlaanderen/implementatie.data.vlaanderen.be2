@@ -3,12 +3,12 @@
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie",
     "seealso": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "type": "ap",
-    "dummy": "064"
+    "dummy": "065"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
-    "branchtag": "fa4b21b072358f219bae1625e1be19aa273c18fb",
+    "branchtag": "e5fff7c2722a7e2b792024aba8d0c2b66c1cc79d",
     "name": "wegenvignetregistratie",
     "filename": "config/wegenvignetregistratie-im.json",
      "contextgenerator": {
@@ -19,6 +19,6 @@
     },
     "navigation": {
     },
-    "dummy": "064"
+    "dummy": "065"
   }
 ]
