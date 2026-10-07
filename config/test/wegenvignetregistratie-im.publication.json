@@ -8,7 +8,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
-    "branchtag": "d97183f9f2751c22c7d60adba13f6427f8dbfcc9",
+    "branchtag": "8a0293ad6ccf44fe67155c68739ce76783ab7aac",
     "name": "wegenvignetregistratie",
     "filename": "config/wegenvignetregistratie-im.json",
      "contextgenerator": {
@@ -17,6 +17,32 @@
     "swaggergenerator": {
       "parameters": "--title 'magda wegenvignetregistratie REST' --description 'OSLO-conforme REST API voor informatie over wegenvignetregistratie' --versionAPI 0.1.0 --language nl --outputFormat application/json application/yaml"
     },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-wegenvignetregistratie-IM/artefacts",
+    "bundleExternalOntologies": false,
+    "navigation": {
+    },
+    "dummy": "067"
+  },
+  {
+    "urlref": "/ns/magda/wegenvignetregistratie",
+    "seealso": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
+    "type": "voc",
+    "dummy": "067"
+  },
+  {
+    "urlref": "/doc/vocabularium/magda/wegenvignetregistratie",
+    "seealso": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
+    "type": "voc",
+    "dummy": "067"
+  },
+  {
+    "urlref": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
+    "branchtag": "8a0293ad6ccf44fe67155c68739ce76783ab7aac",
+    "name": "wegenvignetregistratie",
+    "prefix": "magda",
+    "filename": "config/wegenvignetregistratie-im-voc.json",
     "navigation": {
     },
     "dummy": "067"
