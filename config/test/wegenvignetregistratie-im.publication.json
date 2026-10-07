@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie",
     "seealso": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "type": "ap",
-    "dummy": "067"
+    "dummy": "068"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
@@ -22,19 +22,19 @@
     "bundleExternalOntologies": false,
     "navigation": {
     },
-    "dummy": "067"
+    "dummy": "068"
   },
   {
     "urlref": "/ns/magda/wegenvignetregistratie",
     "seealso": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "067"
+    "dummy": "068"
   },
   {
     "urlref": "/doc/vocabularium/magda/wegenvignetregistratie",
     "seealso": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "067"
+    "dummy": "068"
   },
   {
     "urlref": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
@@ -45,6 +45,6 @@
     "filename": "config/wegenvignetregistratie-im-voc.json",
     "navigation": {
     },
-    "dummy": "067"
+    "dummy": "068"
   }
 ]
