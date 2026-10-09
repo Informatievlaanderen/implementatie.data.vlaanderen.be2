@@ -3,12 +3,12 @@
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie",
     "seealso": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "type": "ap",
-    "dummy": "073"
+    "dummy": "074"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
-    "branchtag": "36031fe886714345cbd41d341a26c2c87232d3ad",
+    "branchtag": "v0.1.0",
     "name": "wegenvignetregistratie",
     "filename": "config/wegenvignetregistratie-im.json",
      "contextgenerator": {
@@ -22,29 +22,29 @@
     "bundleExternalOntologies": false,
     "navigation": {
     },
-    "dummy": "073"
+    "dummy": "074"
   },
   {
     "urlref": "/ns/magda/wegenvignetregistratie",
     "seealso": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "073"
+    "dummy": "074"
   },
   {
     "urlref": "/doc/vocabularium/magda/wegenvignetregistratie",
     "seealso": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
     "type": "voc",
-    "dummy": "073"
+    "dummy": "074"
   },
   {
     "urlref": "/doc/vocabularium/magda/wegenvignetregistratie/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-wegenvignetregistratie/",
-    "branchtag": "36031fe886714345cbd41d341a26c2c87232d3ad",
+    "branchtag": "v0.1.0",
     "name": "wegenvignetregistratie",
     "prefix": "magda",
     "filename": "config/wegenvignetregistratie-im-voc.json",
     "navigation": {
     },
-    "dummy": "073"
+    "dummy": "074"
   }
 ]
