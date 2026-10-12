@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie",
     "seealso": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
     "type": "ap",
-    "dummy": "076"
+    "dummy": "077"
   },
   {
     "urlref": "/doc/implementatiemodel/magda/wegenvignetregistratie/v0.1.0",
@@ -22,7 +22,7 @@
     "bundleExternalOntologies": false,
     "navigation": {
     },
-    "dummy": "076"
+    "dummy": "077"
   },
   {
     "urlref": "/ns/magda/wegenvignetregistratie",
