@@ -53,7 +53,7 @@ jobs:
             touch /tmp/workspace/report4/.ignore
       - run:
           name: install software
-          command: sudo npm install --global @oslo-flanders/ea-converter
+          command: sudo npm install --global @oslo-flanders/ea-converter@1.3.0-beta.0
       - run:
           name: install software stakeholders
           command: sudo npm install --global @oslo-flanders/stakeholders-converter
@@ -355,7 +355,7 @@ jobs:
             touch /tmp/workspace/report4/swagger/.ignore
       - run:
           name: install software
-          command: sudo npm install -g @oslo-flanders/swagger-generator
+          command: sudo npm install -g @oslo-flanders/swagger-generator@3.2.0-beta.0
       - run:
           name: Render swagger file of  merged json file (a)
           command: |
