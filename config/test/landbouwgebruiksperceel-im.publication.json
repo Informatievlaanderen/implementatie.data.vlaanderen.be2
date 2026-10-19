@@ -1,9 +1,9 @@
 [
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel",
-    "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.2.0",
+    "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.3.0",
     "type": "ap",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
@@ -11,7 +11,7 @@
     "branchtag": "v0.1.0",
     "name": "landbouwgebruiksperceel",
     "filename": "config/landbouwgebruiksperceel-im.json",
-     "contextgenerator": {
+    "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
@@ -19,9 +19,8 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
-    "navigation": {
-    },
-    "dummy": "036"
+    "navigation": {},
+    "dummy": "037"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.2.0",
@@ -29,7 +28,7 @@
     "branchtag": "v0.2.0",
     "name": "landbouwgebruiksperceel",
     "filename": "config/landbouwgebruiksperceel-im.json",
-     "contextgenerator": {
+    "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
@@ -37,21 +36,40 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
-    "navigation": {
+    "navigation": {},
+    "dummy": "037"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.3.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
+    "branchtag": "v0.3.0",
+    "name": "landbouwgebruiksperceel",
+    "filename": "config/landbouwgebruiksperceel-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
     },
-    "dummy": "036"
+    "eaconverter": {
+      "parameters": "--addConceptAttributes true"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA landbouw.landbouwgebruikspercelen REST' --description 'MAGDA OSLO-conforme REST API voor informatie over landbouwgebruikspercelen' --versionAPI 0.3.0 --language nl"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
+    "navigation": {},
+    "dummy": "037"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel",
-    "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
+    "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.3.0",
     "type": "voc",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel",
-    "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
+    "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.3.0",
     "type": "voc",
-    "dummy": "036"
+    "dummy": "037"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
@@ -60,9 +78,8 @@
     "name": "landbouwgebruiksperceel",
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
-    "navigation": {
-    },
-    "dummy": "036"
+    "navigation": {},
+    "dummy": "037"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
@@ -71,8 +88,17 @@
     "name": "landbouwgebruiksperceel",
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
-    "navigation": {
-    },
-    "dummy": "036"
+    "navigation": {},
+    "dummy": "037"
+  },
+  {
+    "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.3.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-landbouwgebruiksperceel/",
+    "branchtag": "v0.3.0",
+    "name": "landbouwgebruiksperceel",
+    "prefix": "lv",
+    "filename": "config/landbouwgebruiksperceel-voc.json",
+    "navigation": {},
+    "dummy": "037"
   }
 ]
