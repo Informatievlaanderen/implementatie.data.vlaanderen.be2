@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel",
     "seealso": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.3.0",
     "type": "ap",
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.1.0",
@@ -20,7 +20,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
     "navigation": {},
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.2.0",
@@ -37,7 +37,7 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
     "navigation": {},
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/implementatiemodel/lv/landbouwgebruiksperceel/v0.3.0",
@@ -57,19 +57,19 @@
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Landbouwgebruiksperceel-IM/artefacts",
     "navigation": {},
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/ns/lv/landbouwgebruiksperceel",
     "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.3.0",
     "type": "voc",
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel",
     "seealso": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.3.0",
     "type": "voc",
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.1.0",
@@ -79,7 +79,7 @@
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {},
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.2.0",
@@ -89,7 +89,7 @@
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {},
-    "dummy": "038"
+    "dummy": "039"
   },
   {
     "urlref": "/doc/vocabularium/lv/landbouwgebruiksperceel/v0.3.0",
@@ -99,6 +99,6 @@
     "prefix": "lv",
     "filename": "config/landbouwgebruiksperceel-voc.json",
     "navigation": {},
-    "dummy": "038"
+    "dummy": "039"
   }
 ]
