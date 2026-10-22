@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "ap",
-    "dummy": "065"
+    "dummy": "066"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -42,19 +42,19 @@
     "navigation": {
       "prev": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7"
     },
-    "dummy": "065"
+    "dummy": "066"
   },
   {
     "urlref": "/ns/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "voc",
-    "dummy": "065"
+    "dummy": "066"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "voc",
-    "dummy": "065"
+    "dummy": "066"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -77,6 +77,6 @@
     "navigation": {
       "prev": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7"
     },
-    "dummy": "065"
+    "dummy": "066"
   }
 ]
