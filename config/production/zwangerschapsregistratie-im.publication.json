@@ -1,9 +1,9 @@
 [
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
+    "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "ap",
-    "dummy": "060"
+    "dummy": "061"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -25,16 +25,36 @@
     "dummy": "060"
   },
   {
+    "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.8",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
+    "branchtag": "v0.1.8",
+    "name": "zwangerschapsregistratie",
+    "filename": "config/zwangerschapsregistratie-im.json",
+     "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.8 --versionSwagger 3.1.0 --disableLinks true --language nl --excludeProperties Persoon.heeftZwangerschap Foetus.deelVan MedischeObservatie.vastgesteld MedischVerslag.documenteert Agent.steltOp Organisatie.steltOp Persoon.steltOp Zorgverlener.steltOp Zorgverlener.heeftZwangerschap --outputFormat application/json application/yaml"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Zwangerschapsregistratie-IM/artefacts",
+    "bundleExternalOntologies": false,
+    "navigation": {
+      "prev": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7"
+    },
+    "dummy": "061"
+  },
+  {
     "urlref": "/ns/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
+    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "voc",
-    "dummy": "060"
+    "dummy": "061"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie",
-    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
+    "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "voc",
-    "dummy": "060"
+    "dummy": "061"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -46,5 +66,17 @@
     "navigation": {
     },
     "dummy": "060"
+  },
+  {
+    "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
+    "branchtag": "v0.1.8",
+    "name": "zwangerschapsregistratie",
+    "prefix": "vitalink",
+    "filename": "config/zwangerschapsregistratie-voc.json",
+    "navigation": {
+      "prev": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7"
+    },
+    "dummy": "061"
   }
 ]
