@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "ap",
-    "dummy": "068"
+    "dummy": "069"
   },
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -27,7 +27,7 @@
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.8",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "a7a2487b12c867a0bba409a6f9d9475981cbd249",
+    "branchtag": "6a78b43b0452dfc53368ce3f74ab9eb68e9f8a56",
     "name": "zwangerschapsregistratie",
     "filename": "config/zwangerschapsregistratie-im.json",
      "contextgenerator": {
@@ -42,19 +42,19 @@
     "navigation": {
       "prev": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.7"
     },
-    "dummy": "068"
+    "dummy": "069"
   },
   {
     "urlref": "/ns/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "voc",
-    "dummy": "068"
+    "dummy": "069"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie",
     "seealso": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "type": "voc",
-    "dummy": "068"
+    "dummy": "069"
   },
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7",
@@ -70,13 +70,13 @@
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.8",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "a7a2487b12c867a0bba409a6f9d9475981cbd249",
+    "branchtag": "6a78b43b0452dfc53368ce3f74ab9eb68e9f8a56",
     "name": "zwangerschapsregistratie",
     "prefix": "vitalink",
     "filename": "config/zwangerschapsregistratie-voc.json",
     "navigation": {
       "prev": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.7"
     },
-    "dummy": "068"
+    "dummy": "069"
   }
 ]
