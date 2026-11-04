@@ -1,4 +1,32 @@
 [
+  {  
+    "urlref": "/doc/implementatiemodel/magda/persoon/test-full",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "master",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.0.4"
+    },
+    "dummy": "025",
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/magda/persoon/test-full",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
+    "branchtag": "master",
+    "prefix": "magda",
+    "name": "persoon",
+    "filename": "config/persoon-magda-voc.json",
+    "navigation": {
+      "prev": "/ns/magda/persoon/v0.0.4"
+    },
+    "dummy": "025",
+    "disabled": false
+  },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon",
     "seealso": "/doc/implementatiemodel/magda/persoon/v0.4.0",
