@@ -29,9 +29,9 @@
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon",
-    "seealso": "/doc/implementatiemodel/magda/persoon/v0.4.3",
+    "seealso": "/doc/implementatiemodel/magda/persoon/v0.4.4",
     "type": "ap",
-    "dummy": "164",
+    "dummy": "165",
     "disabled": false
   },
   {
@@ -288,25 +288,46 @@
       "parameters": "--title 'MAGDA persoon.personen REST' --description 'MAGDA OSLO-conforme REST API voor persoon.personen (MVP)' --versionAPI 0.4.3 --versionSwagger 3.1.0 --disableLinks --language nl --excludeProperties Inwonerschap.persoon Gezinsrelatie.vanPersoon Huwelijk.vanPersoon Samenwonen.vanPersoon Afstamming.vanPersoon AfstammingDalendeLijn.vanPersoon AfstammingOpgaandeLijn.vanPersoon --licenseURL https://vlaamseoverheid.atlassian.net/wiki/spaces/MG/pages/9056387121/persoon.personen+-+v1#Gebruiksvoorwaarden --licenseName Gebruiksvoorwaarden --outputFormat application/yaml --contactURL https://vlaamseoverheid.atlassian.net/servicedesk/customer/portal/2038 --contactName MAGDA Service Desk --expanded true"
     },
     "navigation": {
-      "prev": "/doc/implementatiemodel/magda/persoon/v0.4.3"
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.4.2",
+      "next": "/doc/implementatiemodel/magda/persoon/v0.4.4"
     },
-    "bundle": true,
+    "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
     "dummy": "164",
     "disabled": false
   },
   {
+    "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "b229b129815b07fa36f13d66694bf33b3e5d11aa",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA persoon.personen REST' --description 'MAGDA OSLO-conforme REST API voor persoon.personen (MVP)' --versionAPI 0.4.4 --versionSwagger 3.1.0 --disableLinks --language nl --excludeProperties Inwonerschap.persoon Gezinsrelatie.vanPersoon Huwelijk.vanPersoon Samenwonen.vanPersoon Afstamming.vanPersoon AfstammingDalendeLijn.vanPersoon AfstammingOpgaandeLijn.vanPersoon --licenseURL https://vlaamseoverheid.atlassian.net/wiki/spaces/MG/pages/9056387121/persoon.personen+-+v1#Gebruiksvoorwaarden --licenseName Gebruiksvoorwaarden --outputFormat application/yaml --contactURL https://vlaamseoverheid.atlassian.net/servicedesk/customer/portal/2038 --contactName MAGDA Service Desk --expanded true"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.4.3"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
+    "dummy": "165",
+    "disabled": false
+  },
+  {
     "urlref": "/ns/magda/persoon",
-    "seealso": "/ns/magda/persoon/v0.4.3",
+    "seealso": "/ns/magda/persoon/v0.4.4",
     "type": "voc",
-    "dummy": "164",
+    "dummy": "165",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon",
-    "seealso": "/doc/vocabularium/magda/persoon/v0.4.3",
+    "seealso": "/doc/vocabularium/magda/persoon/v0.4.4",
     "type": "voc",
-    "dummy": "164",
+    "dummy": "165",
     "disabled": false
   },
   {
@@ -574,9 +595,23 @@
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
     "navigation": {
-      "prev": "/doc/vocabularium/magda/persoon/v0.4.2"
+      "prev": "/doc/vocabularium/magda/persoon/v0.4.2",
+      "next": "/doc/vocabularium/magda/persoon/v0.4.4"
     },
-    "dummy": "164",
+    "dummy": "165",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/magda/persoon/v0.4.4",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
+    "branchtag": "b229b129815b07fa36f13d66694bf33b3e5d11aa",
+    "prefix": "magda",
+    "name": "persoon",
+    "filename": "config/persoon-magda-voc.json",
+    "navigation": {
+      "prev": "/doc/vocabularium/magda/persoon/v0.4.3"
+    },
+    "dummy": "165",
     "disabled": false
   }
 ]
