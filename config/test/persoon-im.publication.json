@@ -252,13 +252,13 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.2",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "c4e5fff895b2fbbebbfc2a32912896c6f1daccf4",
+    "branchtag": "456f9e28392b184880e5570eb46218fcc051ee2e",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -272,21 +272,21 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   },
   {
     "urlref": "/ns/magda/persoon",
     "seealso": "/ns/magda/persoon/v0.4.2",
     "type": "voc",
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon",
     "seealso": "/doc/vocabularium/magda/persoon/v0.4.2",
     "type": "voc",
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   },
   {
@@ -514,7 +514,7 @@
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.3.0"
     },
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   },
   {
@@ -527,20 +527,20 @@
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.4.0"
     },
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon/v0.4.2",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "c4e5fff895b2fbbebbfc2a32912896c6f1daccf4",
+    "branchtag": "456f9e28392b184880e5570eb46218fcc051ee2e",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.4.1"
     },
-    "dummy": "161",
+    "dummy": "162",
     "disabled": false
   }
 ]
