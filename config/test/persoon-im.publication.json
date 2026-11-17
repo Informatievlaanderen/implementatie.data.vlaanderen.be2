@@ -1,5 +1,5 @@
 [
-  {  
+  {
     "urlref": "/doc/implementatiemodel/magda/persoon/test-full",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
     "branchtag": "master",
@@ -252,21 +252,41 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "156",
+    "dummy": "157",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.2",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
+    "branchtag": "649a832cbce2fe5f0c3a8214ea6005f799edf991",
+    "name": "persoon",
+    "filename": "config/persoon-magda-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "swaggergenerator": {
+      "parameters": "--title 'MAGDA persoon.personen REST' --description 'MAGDA OSLO-conforme REST API voor persoon.personen (MVP)' --versionAPI 0.4.2 --versionSwagger 3.1.0 --disableLinks --language nl --excludeProperties Inwonerschap.persoon Gezinsrelatie.vanPersoon Huwelijk.vanPersoon Samenwonen.vanPersoon Afstamming.vanPersoon AfstammingDalendeLijn.vanPersoon AfstammingOpgaandeLijn.vanPersoon --licenseURL https://vlaamseoverheid.atlassian.net/wiki/spaces/MG/pages/9056387121/persoon.personen+-+v1#Gebruiksvoorwaarden --licenseName Gebruiksvoorwaarden --outputFormat application/yaml --contactURL https://vlaamseoverheid.atlassian.net/servicedesk/customer/portal/2038 --contactName MAGDA Service Desk --expanded true"
+    },
+    "navigation": {
+      "prev": "/doc/implementatiemodel/magda/persoon/v0.4.1"
+    },
+    "bundle": true,
+    "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
+    "dummy": "157",
     "disabled": false
   },
   {
     "urlref": "/ns/magda/persoon",
-    "seealso": "/ns/magda/persoon/v0.4.1",
+    "seealso": "/ns/magda/persoon/v0.4.2",
     "type": "voc",
-    "dummy": "156",
+    "dummy": "157",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon",
-    "seealso": "/doc/vocabularium/magda/persoon/v0.4.1",
+    "seealso": "/doc/vocabularium/magda/persoon/v0.4.2",
     "type": "voc",
-    "dummy": "155",
+    "dummy": "157",
     "disabled": false
   },
   {
@@ -494,7 +514,7 @@
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.3.0"
     },
-    "dummy": "155",
+    "dummy": "157",
     "disabled": false
   },
   {
@@ -507,7 +527,20 @@
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.4.0"
     },
-    "dummy": "156",
+    "dummy": "157",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/magda/persoon/v0.4.2",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
+    "branchtag": "649a832cbce2fe5f0c3a8214ea6005f799edf991",
+    "prefix": "magda",
+    "name": "persoon",
+    "filename": "config/persoon-magda-voc.json",
+    "navigation": {
+      "prev": "/doc/vocabularium/magda/persoon/v0.4.1"
+    },
+    "dummy": "157",
     "disabled": false
   }
 ]
