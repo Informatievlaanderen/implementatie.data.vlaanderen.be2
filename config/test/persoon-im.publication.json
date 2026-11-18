@@ -31,7 +31,7 @@
     "urlref": "/doc/implementatiemodel/magda/persoon",
     "seealso": "/doc/implementatiemodel/magda/persoon/v0.4.4",
     "type": "ap",
-    "dummy": "167",
+    "dummy": "165",
     "disabled": false
   },
   {
@@ -218,7 +218,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "bf7c6648e5cc6199b0919167c35001171b3eb288",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -238,7 +238,7 @@
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.1",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "7702460d0888d2e083372140f1541ab985e6ffff",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -252,13 +252,13 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "167",
+    "dummy": "164",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.2",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "738be7c101950e03f0189b4cf786a2601237aa6c",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -272,13 +272,13 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "167",
+    "dummy": "164",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.3",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "25afc7023e47eceb89d0f26983b3c5c7dca29624",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -293,13 +293,13 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "167",
+    "dummy": "164",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/magda/persoon/v0.4.4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "b229b129815b07fa36f13d66694bf33b3e5d11aa",
     "name": "persoon",
     "filename": "config/persoon-magda-im.json",
     "contextgenerator": {
@@ -313,21 +313,21 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "167",
+    "dummy": "165",
     "disabled": false
   },
   {
     "urlref": "/ns/magda/persoon",
     "seealso": "/ns/magda/persoon/v0.4.4",
     "type": "voc",
-    "dummy": "167",
+    "dummy": "165",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon",
     "seealso": "/doc/vocabularium/magda/persoon/v0.4.4",
     "type": "voc",
-    "dummy": "167",
+    "dummy": "165",
     "disabled": false
   },
   {
@@ -548,7 +548,7 @@
   {
     "urlref": "/doc/vocabularium/magda/persoon/v0.4.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "bf7c6648e5cc6199b0919167c35001171b3eb288",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
@@ -556,13 +556,13 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.3.0",
       "next": "/doc/vocabularium/magda/persoon/v0.4.0"
     },
-    "dummy": "167",
+    "dummy": "164",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon/v0.4.1",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "7702460d0888d2e083372140f1541ab985e6ffff",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
@@ -570,13 +570,13 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.4.0",
       "next": "/doc/vocabularium/magda/persoon/v0.4.2"
     },
-    "dummy": "167",
+    "dummy": "164",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon/v0.4.2",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "738be7c101950e03f0189b4cf786a2601237aa6c",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
@@ -584,13 +584,13 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.4.1",
       "next": "/doc/vocabularium/magda/persoon/v0.4.3"
     },
-    "dummy": "167",
+    "dummy": "164",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon/v0.4.3",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "25afc7023e47eceb89d0f26983b3c5c7dca29624",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
@@ -598,20 +598,20 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.4.2",
       "next": "/doc/vocabularium/magda/persoon/v0.4.4"
     },
-    "dummy": "167",
+    "dummy": "165",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon/v0.4.4",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-persoon/",
-    "branchtag": "00fde00b630b62a9fc3a189412de021abb178e16",
+    "branchtag": "b229b129815b07fa36f13d66694bf33b3e5d11aa",
     "prefix": "magda",
     "name": "persoon",
     "filename": "config/persoon-magda-voc.json",
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.4.3"
     },
-    "dummy": "167",
+    "dummy": "165",
     "disabled": false
   }
 ]
