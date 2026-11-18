@@ -31,7 +31,7 @@
     "urlref": "/doc/implementatiemodel/magda/persoon",
     "seealso": "/doc/implementatiemodel/magda/persoon/v0.4.4",
     "type": "ap",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -252,7 +252,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -272,7 +272,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -293,7 +293,7 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -313,21 +313,21 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Persoon-MAGDA-IM/artefacts",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
     "urlref": "/ns/magda/persoon",
     "seealso": "/ns/magda/persoon/v0.4.4",
     "type": "voc",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon",
     "seealso": "/doc/vocabularium/magda/persoon/v0.4.4",
     "type": "voc",
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -556,7 +556,7 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.3.0",
       "next": "/doc/vocabularium/magda/persoon/v0.4.0"
     },
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -570,7 +570,7 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.4.0",
       "next": "/doc/vocabularium/magda/persoon/v0.4.2"
     },
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -584,7 +584,7 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.4.1",
       "next": "/doc/vocabularium/magda/persoon/v0.4.3"
     },
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -598,7 +598,7 @@
       "prev": "/doc/vocabularium/magda/persoon/v0.4.2",
       "next": "/doc/vocabularium/magda/persoon/v0.4.4"
     },
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   },
   {
@@ -611,7 +611,7 @@
     "navigation": {
       "prev": "/doc/vocabularium/magda/persoon/v0.4.3"
     },
-    "dummy": "166",
+    "dummy": "167",
     "disabled": false
   }
 ]
