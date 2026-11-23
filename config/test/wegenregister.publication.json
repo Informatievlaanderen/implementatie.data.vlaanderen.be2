@@ -2,7 +2,7 @@
   {
     "urlref": "/doc/implementatiemodel/wegenregister/ontwerpstandaard/2026-09-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-weg",
-    "name": "wegenregister IM",
+    "name": "wegenregisterIM",
     "branchtag": "master",
     "filename": "config/weg2.json",
     "navigation": {},
@@ -14,7 +14,7 @@
     {
     "urlref": "/ns/wegenregister/ontwerpstandaard/2026-09-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-weg",
-    "name": "wegenregister VOC",
+    "name": "wegenregisterVOC",
     "branchtag": "master",
     "filename": "config/weg2.json",
     "navigation": {},
