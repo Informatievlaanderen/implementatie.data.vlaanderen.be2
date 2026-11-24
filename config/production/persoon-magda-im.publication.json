@@ -239,14 +239,14 @@
     "urlref": "/ns/magda/persoon",
     "seealso": "/ns/magda/persoon/v0.4.0",
     "type": "voc",
-    "dummy": "175",
+    "dummy": "176",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/magda/persoon",
     "seealso": "/doc/vocabularium/magda/persoon/v0.4.0",
     "type": "voc",
-    "dummy": "175",
+    "dummy": "176",
     "disabled": false
   },
   {
@@ -461,7 +461,7 @@
     "urlref": "/ns/magda/persoon/v0.4.0",
     "seealso": "/doc/vocabularium/magda/persoon/v0.4.0",
     "type": "voc",
-    "dummy": "175",
+    "dummy": "176",
     "disabled": false
   },
   {
