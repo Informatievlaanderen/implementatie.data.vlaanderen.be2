@@ -3,13 +3,13 @@
     "urlref": "/doc/implementatiemodel/cloudeventsld",
     "seealso": "/doc/implementatiemodel/cloudeventsld/v0.1.0",
     "type": "ap",
-    "dummy": "003",
+    "dummy": "004",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/cloudeventsld/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-basisregisters-changefeeds/",
-    "branchtag": "2ee9fa274a1d53a61f2c8474ea71384974a69615",
+    "branchtag": "3e4dd495c07fe91e3f73b335f5c0171767f7dbce",
     "name": "cloudeventsld",
     "filename": "config/cloudeventsld-implementatie-im.json",
     "contextgenerator": {
@@ -19,37 +19,37 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-CloudEventsLD-IM/artefacts",
-    "dummy": "003",
+    "dummy": "004",
     "disabled": false
   },
   {
     "urlref": "/ns/cloudeventsld",
     "seealso": "/doc/vocabularium/cloudeventsld/v0.1.0",
     "type": "voc",
-    "dummy": "003",
+    "dummy": "004",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/cloudeventsld",
     "seealso": "/doc/vocabularium/cloudeventsld/v0.1.0",
     "type": "voc",
-    "dummy": "003",
+    "dummy": "004",
     "disabled": false
   },
   {
     "urlref": "/ns/cloudeventsld/v0.1.0",
     "seealso": "/doc/vocabularium/cloudeventsld/v0.1.0",
     "type": "voc",
-    "dummy": "003",
+    "dummy": "004",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/cloudeventsld/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-basisregisters-changefeeds/",
-    "branchtag": "2ee9fa274a1d53a61f2c8474ea71384974a69615",
+    "branchtag": "3e4dd495c07fe91e3f73b335f5c0171767f7dbce",
     "name": "cloudeventsld",
     "filename": "config/cloudeventsld-implementatie-voc.json",
-    "dummy": "003",
+    "dummy": "004",
     "navigation": {
     },
     "disabled": false
