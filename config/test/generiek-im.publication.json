@@ -1,7 +1,7 @@
 [
   {
     "urlref": "/doc/implementatiemodel/generiek",
-    "seealso": "/doc/implementatiemodel/generiek/v0.1.0",
+    "seealso": "/doc/implementatiemodel/generiek/v0.2.0",
     "type": "ap",
     "dummy": "013",
     "disabled": false
@@ -16,6 +16,21 @@
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "navigation": {},
+    "bundle": false,
+    "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
+    "dummy": "013",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/implementatiemodel/generiek/v0.2.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
+    "branchtag": "v0.2.0",
+    "name": "generiek-implementatie",
+    "filename": "config/generiek-implementatie-im.json",
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "navigation": {},
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
     "dummy": "013",
@@ -23,14 +38,14 @@
   },
   {
     "urlref": "/ns/generiek",
-    "seealso": "/doc/vocabularium/generiek/v0.1.0",
+    "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
     "dummy": "013",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek",
-    "seealso": "/doc/vocabularium/generiek/v0.1.0",
+    "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
     "dummy": "013",
     "disabled": false
@@ -46,6 +61,25 @@
     "urlref": "/doc/vocabularium/generiek/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
     "branchtag": "v0.1.0",
+    "name": "generiek-implementatie",
+    "filename": "config/generiek-implementatie-voc.json",
+    "dummy": "013",
+    "navigation": {
+      "prev": "/doc/implementatiemodel/generiek/v0.1.0"
+    },
+    "disabled": false
+  },
+  {
+    "urlref": "/ns/generiek/v0.2.0",
+    "seealso": "/doc/vocabularium/generiek/v0.2.0",
+    "type": "voc",
+    "dummy": "013",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/generiek/v0.2.0",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
+    "branchtag": "01aae18b6f5f5d2ac7215aaac4e8207b5e8f1c7e",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
     "dummy": "013",
