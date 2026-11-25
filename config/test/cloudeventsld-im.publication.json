@@ -9,7 +9,7 @@
   {
     "urlref": "/doc/implementatiemodel/cloudeventsld/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-basisregisters-changefeeds/",
-    "branchtag": "3e4dd495c07fe91e3f73b335f5c0171767f7dbce",
+    "branchtag": "7aa733289e954cd83b7500836c520cbd15e00814",
     "name": "cloudeventsld",
     "filename": "config/cloudeventsld-im.json",
     "contextgenerator": {
