@@ -26,7 +26,7 @@
   {
     "urlref": "/doc/implementatiemodel/generiek/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "e91b3b9388c25d780c5755e567256606c88595be",
+    "branchtag": "v0.2.0",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-im.json",
     "contextgenerator": {
@@ -83,7 +83,7 @@
   {
     "urlref": "/doc/vocabularium/generiek/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "e91b3b9388c25d780c5755e567256606c88595be",
+    "branchtag": "v0.2.0",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
     "dummy": "16",
