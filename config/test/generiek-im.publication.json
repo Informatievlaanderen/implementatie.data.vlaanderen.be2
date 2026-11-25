@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/generiek",
     "seealso": "/doc/implementatiemodel/generiek/v0.2.0",
     "type": "ap",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
@@ -15,46 +15,50 @@
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
-    "navigation": {},
+    "navigation": {
+        "next": "/doc/implementatiemodel/generiek/v0.2.0"
+    },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/generiek/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "01aae18b6f5f5d2ac7215aaac4e8207b5e8f1c7e",
+    "branchtag": "e77cb5f6774f45e7abdbd622331e1095f70b2f82",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-im.json",
     "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
-    "navigation": {},
+    "navigation": {
+        "prev": "/doc/implementatiemodel/generiek/v0.1.0"
+    },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
     "urlref": "/ns/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
     "urlref": "/ns/generiek/v0.1.0",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
@@ -63,9 +67,9 @@
     "branchtag": "v0.1.0",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
-    "dummy": "14",
+    "dummy": "15",
     "navigation": {
-      "prev": "/doc/implementatiemodel/generiek/v0.1.0"
+      "next": "/doc/implementatiemodel/generiek/v0.2.0"
     },
     "disabled": false
   },
@@ -73,16 +77,16 @@
     "urlref": "/ns/generiek/v0.2.0",
     "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
-    "dummy": "14",
+    "dummy": "15",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "01aae18b6f5f5d2ac7215aaac4e8207b5e8f1c7e",
+    "branchtag": "e77cb5f6774f45e7abdbd622331e1095f70b2f82",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
-    "dummy": "14",
+    "dummy": "15",
     "navigation": {
       "prev": "/doc/implementatiemodel/generiek/v0.1.0"
     },
