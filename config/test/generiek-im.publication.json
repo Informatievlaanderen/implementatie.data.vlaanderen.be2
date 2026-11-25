@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/generiek",
     "seealso": "/doc/implementatiemodel/generiek/v0.2.0",
     "type": "ap",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
@@ -20,13 +20,13 @@
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/generiek/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "e77cb5f6774f45e7abdbd622331e1095f70b2f82",
+    "branchtag": "e91b3b9388c25d780c5755e567256606c88595be",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-im.json",
     "contextgenerator": {
@@ -37,28 +37,28 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Generiek-IM/artefacts",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
     "urlref": "/ns/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek",
     "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
     "urlref": "/ns/generiek/v0.1.0",
     "seealso": "/doc/vocabularium/generiek/v0.1.0",
     "type": "voc",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
@@ -67,7 +67,7 @@
     "branchtag": "v0.1.0",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
-    "dummy": "15",
+    "dummy": "16",
     "navigation": {
       "next": "/doc/implementatiemodel/generiek/v0.2.0"
     },
@@ -77,16 +77,16 @@
     "urlref": "/ns/generiek/v0.2.0",
     "seealso": "/doc/vocabularium/generiek/v0.2.0",
     "type": "voc",
-    "dummy": "15",
+    "dummy": "16",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/generiek/v0.2.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-generiek/",
-    "branchtag": "e77cb5f6774f45e7abdbd622331e1095f70b2f82",
+    "branchtag": "e91b3b9388c25d780c5755e567256606c88595be",
     "name": "generiek-implementatie",
     "filename": "config/generiek-implementatie-voc.json",
-    "dummy": "15",
+    "dummy": "16",
     "navigation": {
       "prev": "/doc/implementatiemodel/generiek/v0.1.0"
     },
