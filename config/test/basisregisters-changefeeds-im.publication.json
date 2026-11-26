@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/basisregisters/changefeeds",
     "seealso": "/doc/implementatiemodel/basisregisters/changefeeds/v0.1.0",
     "type": "ap",
-    "dummy": "010",
+    "dummy": "011",
     "disabled": false
   },
   {
@@ -19,7 +19,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Basisregisters-Changefeeds-IM/artefacts",
-    "dummy": "010",
+    "dummy": "011",
     "disabled": false
   }
 ]
