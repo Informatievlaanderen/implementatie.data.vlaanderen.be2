@@ -1,11 +1,65 @@
 [
   {
     "urlref": "/doc/implementatiemodel/grar/perceel",
-    "seealso": "/doc/implementatiemodel/grar/perceel/v0.0.1",
-    "dummy": "11",
+    "seealso": "/doc/implementatiemodel/grar/perceel/v0.0.2",
+    "dummy": "13",
     "disabled": false
   },
   {
+    "urlref": "/ns/grar/perceel",
+    "prefix": "grar",
+    "seealso": "/doc/vocabularium/grar/perceel/v0.0.2",
+    "type": "voc",
+    "dummy": "13",
+    "disabled": false
+  },
+  {
+    "urlref": "/doc/vocabularium/grar/perceel",
+    "prefix": "grar",
+    "seealso": "/doc/vocabularium/grar/perceel/v0.0.2",
+    "type": "voc",
+    "dummy": "13",
+    "disabled": false
+  },
+  
+  {
+    "urlref": "/doc/implementatiemodel/grar/perceel/v0.0.2",
+    "repository": "https://github.com/informatievlaanderen/OSLOthema-perceel",
+    "branchtag": "master",
+    "name": "perceel-im",
+    "filename": "config/perceel-grar-im.json",
+    "swaggergenerator": {
+      "parameters": "--title 'GRAR Perceel REST' --description 'GRAR OSLO-conforme REST API voor percelen' --versionAPI 3.0.0 --language nl"
+    },
+    "contextgenerator": {
+      "parameters": "--scopedContext true --enablePolymorphism false"
+    },
+    "jsonldvalidation": {
+      "parameters": "--labelWhitelist https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-perceel/refs/heads/master/labelWhitelist.json"
+    },
+    "navigation": {
+      "prev":"/doc/implementatiemodel/grar/perceel/v0.0.1"
+    },
+    "bundle": false,
+    "bundleDirectory": "/resources/OSLO-Perceel-GRAR-IM/artefacts",
+    "dummy": "13",
+    "disabled": false
+  },
+  
+
+  {
+    "urlref": "/doc/vocabularium/grar/perceel/v0.0.2",
+    "repository": "https://github.com/informatievlaanderen/OSLOthema-perceel",
+    "branchtag": "master",
+    "name": "perceel-im-voc",
+    "filename": "config/perceel-grar-im.json",
+    "navigation": {
+      "prev":"/doc/vocabularium/grar/perceel/v0.0.1"
+    },
+    "dummy": "13",
+    "disabled": false
+  },
+{
     "urlref": "/doc/implementatiemodel/grar/perceel/v0.0.1",
     "repository": "https://github.com/informatievlaanderen/OSLOthema-perceel",
     "branchtag": "master",
@@ -21,29 +75,14 @@
       "parameters": "--labelWhitelist https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-perceel/refs/heads/master/labelWhitelist.json"
     },
     "navigation": {
-      
+      "next":"/doc/implementatiemodel/grar/perceel/v0.0.2"
     },
     "bundle": false,
     "bundleDirectory": "/resources/OSLO-Perceel-GRAR-IM/artefacts",
-    "dummy": "12",
+    "dummy": "13",
     "disabled": false
   },
-  {
-    "urlref": "/ns/grar/perceel",
-    "prefix": "grar",
-    "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
-    "type": "voc",
-    "dummy": "11",
-    "disabled": false
-  },
-  {
-    "urlref": "/doc/vocabularium/grar/perceel",
-    "prefix": "grar",
-    "seealso": "/doc/vocabularium/grar/perceel/v0.0.1",
-    "type": "voc",
-    "dummy": "11",
-    "disabled": false
-  },
+  
 
   {
     "urlref": "/doc/vocabularium/grar/perceel/v0.0.1",
@@ -52,9 +91,9 @@
     "name": "perceel-im-voc",
     "filename": "config/perceel-grar-im.json",
     "navigation": {
-      
+      "next":"/doc/vocabularium/grar/perceel/v0.0.2"
     },
-    "dummy": "11",
+    "dummy": "13",
     "disabled": false
   }
 ]
