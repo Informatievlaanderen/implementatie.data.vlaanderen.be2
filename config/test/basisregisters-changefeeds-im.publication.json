@@ -3,13 +3,13 @@
     "urlref": "/doc/implementatiemodel/basisregisters/changefeeds",
     "seealso": "/doc/implementatiemodel/basisregisters/changefeeds/v0.1.0",
     "type": "ap",
-    "dummy": "007",
+    "dummy": "008",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/basisregisters/changefeeds/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-basisregisters-changefeeds/",
-    "branchtag": "9f099d5758755234fdfa34c62e715aa643404424",
+    "branchtag": "466ea1b917abd37a59d55ad697f6393d0f81b9e0",
     "name": "basisregisters-changefeeds",
     "filename": "config/basisregisters-changefeeds-im.json",
     "contextgenerator": {
@@ -19,7 +19,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Basisregisters-Changefeeds-IM/artefacts",
-    "dummy": "007",
+    "dummy": "008",
     "disabled": false
   }
 ]
