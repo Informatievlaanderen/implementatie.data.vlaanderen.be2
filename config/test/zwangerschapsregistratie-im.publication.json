@@ -47,7 +47,7 @@
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.9",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "fa1fcb8803f6de68b3d67cbf58d50276bf957d43",
+    "branchtag": "bfb7639ae41dcaa70070e9cc6a1f90c71c64f8c3",
     "name": "zwangerschapsregistratie",
     "filename": "config/zwangerschapsregistratie-im.json",
      "contextgenerator": {
@@ -102,7 +102,7 @@
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.9",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "fa1fcb8803f6de68b3d67cbf58d50276bf957d43",
+    "branchtag": "bfb7639ae41dcaa70070e9cc6a1f90c71c64f8c3",
     "name": "zwangerschapsregistratie",
     "prefix": "vitalink",
     "filename": "config/zwangerschapsregistratie-voc.json",
