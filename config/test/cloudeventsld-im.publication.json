@@ -3,13 +3,13 @@
     "urlref": "/doc/implementatiemodel/cloudeventsld",
     "seealso": "/doc/implementatiemodel/cloudeventsld/v0.1.0",
     "type": "ap",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   },
   {
     "urlref": "/doc/implementatiemodel/cloudeventsld/v0.1.0",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-basisregisters-changefeeds/",
-    "branchtag": "466ea1b917abd37a59d55ad697f6393d0f81b9e0",
+    "branchtag": "cea3c4617235f0edf854cb7b16eaf28f7b377cef",
     "name": "cloudeventsld",
     "filename": "config/cloudeventsld-im.json",
     "contextgenerator": {
@@ -19,7 +19,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-CloudEventsLD-IM/artefacts",
-    "dummy": "008",
+    "dummy": "009",
     "disabled": false
   }
 ]
