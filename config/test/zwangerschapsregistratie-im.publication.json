@@ -47,14 +47,17 @@
   {
     "urlref": "/doc/implementatiemodel/vitalink/zwangerschapsregistratie/v0.1.9",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "3276dc2651f61f344230d940b1868525f5516a0a",
+    "branchtag": "bb7c9f7cdeec8505aa676e6000ecc7fff6a4877a",
     "name": "zwangerschapsregistratie",
     "filename": "config/zwangerschapsregistratie-im.json",
-     "contextgenerator": {
+    "eaconverter": {
+      "parameters": "--addConceptAttributes true"
+    },
+    "contextgenerator": {
       "parameters": "--scopedContext true --enablePolymorphism false"
     },
     "swaggergenerator": {
-      "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.8 --versionSwagger 3.1.0 --disableLinks true --language nl --excludeProperties Persoon.heeftZwangerschap Foetus.deelVan MedischeObservatie.vastgesteld MedischVerslag.documenteert Agent.steltOp Organisatie.steltOp Persoon.steltOp Zorgverlener.steltOp Zorgverlener.heeftZwangerschap --outputFormat application/json application/yaml"
+      "parameters": "--title 'VITALINK zwangerschapsregistratie REST' --description 'OSLO-conforme REST API voor informatie over zwangerschapsregistratie' --versionAPI 0.1.9 --versionSwagger 3.1.0 --disableLinks true --language nl --excludeProperties Persoon.heeftZwangerschap Foetus.deelVan MedischeObservatie.vastgesteld MedischVerslag.documenteert Agent.steltOp Organisatie.steltOp Persoon.steltOp Zorgverlener.steltOp Zorgverlener.heeftZwangerschap --outputFormat application/json application/yaml"
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Zwangerschapsregistratie-IM/artefacts",
@@ -102,7 +105,7 @@
   {
     "urlref": "/doc/vocabularium/vitalink/zwangerschapsregistratie/v0.1.9",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-zwangerschapsregistratie/",
-    "branchtag": "3276dc2651f61f344230d940b1868525f5516a0a",
+    "branchtag": "bb7c9f7cdeec8505aa676e6000ecc7fff6a4877a",
     "name": "zwangerschapsregistratie",
     "prefix": "vitalink",
     "filename": "config/zwangerschapsregistratie-voc.json",
