@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/cloudeventsld",
     "seealso": "/doc/implementatiemodel/cloudeventsld/v0.1.0",
     "type": "ap",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   },
   {
@@ -19,7 +19,7 @@
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-CloudEventsLD-IM/artefacts",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   }
 ]
