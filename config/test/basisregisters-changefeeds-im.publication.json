@@ -3,7 +3,7 @@
     "urlref": "/doc/implementatiemodel/basisregisters/changefeeds",
     "seealso": "/doc/implementatiemodel/basisregisters/changefeeds/v0.1.0",
     "type": "ap",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   },
   {
@@ -13,34 +13,34 @@
     "name": "basisregisters-changefeeds",
     "filename": "config/basisregisters-changefeeds-im.json",
     "contextgenerator": {
-      "parameters": "--scopedContext true --enablePolymorphism false"
+      "parameters": "--enablePolymorphism false"
     },
     "navigation": {
     },
     "bundle": true,
     "bundleDirectory": "/resources/OSLO-Basisregisters-Changefeeds-IM/artefacts",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   },
   {
     "urlref": "/ns/basisregisters/changefeeds",
     "seealso": "/doc/vocabularium/basisregisters/changefeeds/v0.1.0",
     "type": "voc",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   },
   {
     "urlref": "/doc/vocabularium/basisregisters/changefeeds",
     "seealso": "/doc/vocabularium/basisregisters/changefeeds/v0.1.0",
     "type": "voc",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   },
   {
     "urlref": "/ns/basisregisters/changefeeds/v0.1.0",
     "seealso": "/doc/vocabularium/basisregisters/changefeeds/v0.1.0",
     "type": "voc",
-    "dummy": "016",
+    "dummy": "017",
     "disabled": false
   },
   {
@@ -49,7 +49,7 @@
     "branchtag": "main",
     "name": "basisregisters-changefeeds",
     "filename": "config/basisregisters-changefeeds-voc.json",
-    "dummy": "016",
+    "dummy": "017",
     "navigation": {
     },
     "disabled": false
